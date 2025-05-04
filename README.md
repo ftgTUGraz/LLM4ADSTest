@@ -18,12 +18,12 @@ This is a collection of research papers about the application of Large Language 
 - [Citation](#Citation)
 - [License](#License)
 
-## OverviewOfLLM4ADTest
+## Overview of LLM4ADSTest
 简要介绍。
 
-### LLM
+### Survey of LLM
 需要的依赖库列表。
 
-### LLM_Application
+### Survey of LLM Application
 如何编译项目。
 
