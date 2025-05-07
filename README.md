@@ -33,13 +33,13 @@ This is a collection of research papers about the application of Large Language 
 - [A survey on large language models: Applications, challenges, limitations, and practical usage](https://techrxiv.figshare.com/articles/preprint/A_Survey_on_Large_Language_Models_Applications_Challenges_Limitations_and_Practical_Usage/23589741/1/files/41501037.pdf)
   - Authors: Hadi, Muhammad Usman and Qureshi, Rizwan and Shah, Abbas and Irfan, Muhammad and Zafar, Anas and Shaikh, Muhammad Bilal and Akhtar, Naveed and Wu, Jia and Mirjalili, Seyedali and others.(2023)
   - Key words: Large Language Models, Generative AI, Conversational AI, Co-pilots, Natural language processing, GPT, ChatGPT, Bing, Bard, AI-enabled Tools, AI chatbots.
-  - Summary: Braberman et al. systematically review how LLM are utilized in software testing and verification by analyzing over 100 studies, proposing a taxonomy of downstream tasks to reveal patterns and guide future research.
+  - Summary: Hadi et al. offers a comprehensive overview of LLMs, covering their history, architecture, train-ing methods, applications, challenges, and future directions to support their development and real-world deployment.
   - Source: [multi-modality, synthetic data generation, auto-annotation, driving, LLM applications](https://github.com/anas-zafar/LLM-Survey)
 
 - [Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software Verification and Falsification Approaches](https://arxiv.org/abs/2404.09384)
   - Authors: V´ıctor A. Braberman, Bonomo-Braberman, Flavia and Charalambous, Yiannis and Colonna, Juan G. and Cordeiro, Lucas C. and de Freitas, Rosiane.(2024)
   - Key words: Downstream Task, LLM4SE, Large Language Models, Prompt Engineering, Software Engineering, Software Verification, Software Testing, Taxonomy
-  - Summary: Hadi et al. offers a comprehensive overview of LLMs, covering their history, architecture, train-ing methods, applications, challenges, and future directions to support their development and real-world deployment.
+  - Summary: Braberman et al. systematically review how LLM are utilized in software testing and verification by analyzing over 100 studies, proposing a taxonomy of downstream tasks to reveal patterns and guide future research.
 
 
 ### Survey of LLM Application
