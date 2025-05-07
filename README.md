@@ -1,7 +1,5 @@
 # The application of large language model on scenario-based testing of automated driving systems: a survey
-# LLM4ADSTest
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?color=9cf)
 [![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
