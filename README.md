@@ -1,5 +1,5 @@
 # The application of large language model on scenario-based testing of automated driving systems: a survey
-![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE)
+![GitHub stars](https://github.com/ftgTUGraz/LLM4ADSTest/stargazers) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE)
 
 
 This is a collection of research papers about the application of Large Language Model (LLM) on scenario-based testing of automated driving systems. This survey not only reviews how LLMs are applied in scenario-based testing (e.g., phases, models, and strategies), but also investigates critical challenges (e.g., safety risks) and practical considerations (e.g., integration with industry-standard tools) to provide a holistic view of their real-world. Maintained by zhaoyongqi2022 and dongbi0719.
