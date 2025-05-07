@@ -4,36 +4,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?color=9cf)
 [![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
 
-> A curated repository exploring the intersection of Large Language Models (LLMs) and Autonomous Driving Systems (ADS) Testing.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This repository focuses on leveraging Large Language Models to assist, automate, or enhance the testing and validation of Autonomous Driving Systems. It aims to bridge the gap between LLM capabilities and practical automotive safety evaluation.
-
-## Features
-
-- 🚗 Integration with ADS testing platforms  
-- 🤖 Examples using LLMs for scenario generation, behavior analysis, and validation  
-- 📊 Scripts for result visualization and performance metrics  
-- 📁 Curated literature and benchmarks
-
-## Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/ftgTUGraz/LLM4ADSTest.git
-cd LLM4ADSTest
-
-
 
 This is a collection of research papers about the application of Large Language Model (LLM) on scenario-based testing of automated driving systems. This survey not only reviews how LLMs are applied in scenario-based testing (e.g., phases, models, and strategies), but also investigates critical challenges (e.g., safety risks) and practical considerations (e.g., integration with industry-standard tools) to provide a holistic view of their real-world. Maintained by zhaoyongqi2022 and dongbi0719.
 
