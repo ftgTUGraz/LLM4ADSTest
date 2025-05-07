@@ -37,7 +37,7 @@ This is a collection of research papers about the application of Large Language 
   - Source: [multi-modality, synthetic data generation, auto-annotation, driving, LLM applications](https://github.com/anas-zafar/LLM-Survey)
 
 - [Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software Verification and Falsification Approaches](https://arxiv.org/abs/2404.09384)
-  - Authors: Braberman, V{\'i}ctor A. and Bonomo-Braberman, Flavia and Charalambous, Yiannis and Colonna, Juan G. and Cordeiro, Lucas C. and de Freitas, Rosiane.(2024)
+  - Authors: V´ıctor A. Braberman, Bonomo-Braberman, Flavia and Charalambous, Yiannis and Colonna, Juan G. and Cordeiro, Lucas C. and de Freitas, Rosiane.(2024)
   - Key words: Downstream Task, LLM4SE, Large Language Models, Prompt Engineering, Software Engineering, Software Verification, Software Testing, Taxonomy
   - Summary: Hadi et al. offers a comprehensive overview of LLMs, covering their history, architecture, train-ing methods, applications, challenges, and future directions to support their development and real-world deployment.
 
