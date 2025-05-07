@@ -46,14 +46,26 @@ This is a collection of research papers about the application of Large Language 
   - Key words: ntelligent transportation systems, Autonomous vehicles, Survey, Large models, Efficient deployment techniques.
   - Summary: Gan et al. system-atically review the applications, challenges, and deployment techniques of large models in intelligent transportation systems and autonomous vehicles, aiming to guide their efficient and scalable implementation.
 
-- [Delving Into Multi-Modal Multi-Task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321))
-  - Authors: Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,Ruiqi Wu, Shuyi Geng, Yi Zhou*, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu.(2024)
+- [Delving Into Multi-Modal Multi-Task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321)
+  - Authors: Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,Ruiqi Wu, Shuyi Geng, Yi Zhou, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu.(2024)
   - Key words: Foundation Model, Visual Understanding,Multi-modal Learning, Multi-task Learning, Road Scene.
   - Summary: Luo et al. analyze multi-modal multi-task visual understanding foundation models (MM-VUFMs) for road scenes, highlighting their capabilities, learning paradigms, challenges, and future trends, while offering an open-source repository to support ongoing research.
   - Source: https://github.com/rolsheng/MM-VUFM4DS
 
+- [Leveraging generative ai for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3d city models for smart city advancement](https://link.springer.com/article/10.1007/s44212-024-00060-w)
+  - Authors: Haowen Xu, Femi Omitaomu, Soheil Sabri, Sisi Zlatanova, Xiao Li4 and Yongze Song.(2024)
+  - Key words: Generative artifcial intelligence, Smart city, Urban digital twin, 3D city modeling, Urban planning, Deep learning.
+  - Summary: Xu et al. explore the integration of generative AI models with urban digital twins to enhance the intelligent, scalable, and automated planning and management of smart cities, focusing on key urban subsystems such as transportation, energy, water, and infrastructure. 
 
+- [Chatgpt is on the horizon: Could a large language model be suitable for intelligent traffic safety research and applications?](https://arxiv.org/abs/2303.05382)
+  - Authors: Ou Zheng, Mohamed Abdel-Aty, Dongdong Wang, Zijin Wang, and Shengxuan Ding.(2023)
+  - Key words: Intelligent Traffic Safety, Large Language Models, Computer Vision, Data Automation, Cross-modality Learning.
+  - Summary: Zheng et al. explore the transformative potential of ChatGPT and LLMs in intelligent traffic safety systems, demonstrating their applications, addressing deployment challenges, and proposing multi-modal learning for enhanced decision-making.
 
+- [Large models defining a new era in intelligence testing: A short discussion and exploration](https://ieeexplore.ieee.org/abstract/document/10719620)
+  - Authors: Rui Zhou, Jingwei Ge, Jing Yang, Peijun Ye, Yuchen Li, and Levente Kovács.(2024)
+  - Key words: —Intelligent system, intelligence testing, funda-mental intelligence, scenario engineering.
+  - Summary: Zhou et al. provide a concise overview of the rapid progress in intelligent system testing empowered by large models, focusing on key components such as the Testing Operating System, Testing Foundational Intelligence, and Testing Scenario Engineering, along with their associated challenges. 
 
   
 ### Survey of LLM Application
