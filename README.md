@@ -57,6 +57,9 @@ This is a collection of research papers about the application of Large Language 
 
 ### Scenario Source
 #### Data Enrichment
+- [Learning a Bi-directional Driving Data Generator via Large Multi-modal Model Tuning](https://openreview.net/pdf?id=2UozyR49ZB)
+  - Key words: multi-modality, synthetic data generation, auto-annotation, driving, LLM applications
+
 
 #### Data Labeling
 #### Data Retrieval
@@ -72,7 +75,7 @@ This is a collection of research papers about the application of Large Language 
 
 ### Test Execution
 
-测试执行流程说明。
+测试执行流程说明。  
 
 ### ADS Assessment
 
