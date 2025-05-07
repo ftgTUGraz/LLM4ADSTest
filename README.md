@@ -30,6 +30,10 @@ This is a collection of research papers about the application of Large Language 
 ## 1. Overview of LLM4ADSTest
 
 ### Survey of LLM
+- [A survey on large language models: Applications, challenges, limitations, and practical usage]
+  - Authors: Hadi, Muhammad Usman and Qureshi, Rizwan and Shah, Abbas and Irfan, Muhammad and Zafar, Anas and Shaikh, Muhammad Bilal and Akhtar, Naveed and Wu, Jia and Mirjalili, Seyedali and others.(2023)
+  - Summary: Hadi et al. offers a comprehensive overview of LLMs, covering their history, architecture, train-ing methods, applications, challenges, and future directions to support their development and real-world deployment.
+  - Source: [multi-modality, synthetic data generation, auto-annotation, driving, LLM applications](https://github.com/anas-zafar/LLM-Survey)
 
 这里是对大语言模型（LLM）的综述内容。
 
