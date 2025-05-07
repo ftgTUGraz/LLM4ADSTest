@@ -46,7 +46,16 @@ This is a collection of research papers about the application of Large Language 
   - Key words: ntelligent transportation systems, Autonomous vehicles, Survey, Large models, Efficient deployment techniques.
   - Summary: Gan et al. system-atically review the applications, challenges, and deployment techniques of large models in intelligent transportation systems and autonomous vehicles, aiming to guide their efficient and scalable implementation.
 
+- [Delving Into Multi-Modal Multi-Task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321))
+  - Authors: Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,Ruiqi Wu, Shuyi Geng, Yi Zhou*, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu.(2024)
+  - Key words: Foundation Model, Visual Understanding,Multi-modal Learning, Multi-task Learning, Road Scene.
+  - Summary: Luo et al. analyze multi-modal multi-task visual understanding foundation models (MM-VUFMs) for road scenes, highlighting their capabilities, learning paradigms, challenges, and future trends, while offering an open-source repository to support ongoing research.
+  - Source: https://github.com/rolsheng/MM-VUFM4DS
 
+
+
+
+  
 ### Survey of LLM Application
 
 这里是关于 LLM 应用的综述。
