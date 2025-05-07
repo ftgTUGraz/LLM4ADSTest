@@ -67,7 +67,16 @@ This is a collection of research papers about the application of Large Language 
   - Key words: —Intelligent system, intelligence testing, funda-mental intelligence, scenario engineering.
   - Summary: Zhou et al. provide a concise overview of the rapid progress in intelligent system testing empowered by large models, focusing on key components such as the Testing Operating System, Testing Foundational Intelligence, and Testing Scenario Engineering, along with their associated challenges. 
 
-  
+- [Aligning multimodal llm with human preference: A survey](https://arxiv.org/abs/2503.14504)
+  - Authors: Tao Yu, Yi-Fan Zhang, Chaoyou Fu, Junkang Wu, Jinda Lu, Kun Wang, Xingyu Lu, Yunhang Shen, Guibin Zhang, Dingjie Song, Yibo Yan, Tianlong Xu, Qingsong Wen, Zhang Zhang, Yan Huang, Liang Wang, Tieniu Tan.(2025)
+  - Key words: Multimodal Large Language Model, MLLM Alignment, Alignment with Human Preference. 
+  - Summary: Yu et al. present a comprehensive review of alignment algorithms for MLLMs, covering their application scenarios, dataset construction, evaluation benchmarks, and future directions to address challenges such as truthfulness, safety, and human preference alignment. 
+  - Source: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment
+
+
+
+
+
 ### Survey of LLM Application
 
 这里是关于 LLM 应用的综述。
