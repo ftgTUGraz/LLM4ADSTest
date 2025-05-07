@@ -27,7 +27,7 @@ This is a collection of research papers about the application of Large Language 
 - [License](#license)
 
 
-## Overview of LLM4ADSTest
+## 1. Overview of LLM4ADSTest
 
 ### Survey of LLM
 
@@ -49,13 +49,13 @@ This is a collection of research papers about the application of Large Language 
 
 验证与确认（V&V）的相关研究综述。
 
-## LLM APPLICATION PHASE
+## 2. LLM APPLICATION PHASE
 
 描述 LLM 在不同阶段的应用。
 
-## LLM CONDUCTED TASK
+## 3. LLM CONDUCTED TASK
 
-### Scenario Source
+### 3.1 Scenario Source
 #### Data Enrichment
 - [Learning a Bi-directional Driving Data Generator via Large Multi-modal Model Tuning](https://openreview.net/pdf?id=2UozyR49ZB)
   - Key words: multi-modality, synthetic data generation, auto-annotation, driving, LLM applications
@@ -65,19 +65,19 @@ This is a collection of research papers about the application of Large Language 
 #### Data Retrieval
 介绍数据或场景的来源。
 
-### Scenario Generation
+### 3.2 Scenario Generation
 
 详细说明如何生成测试场景。
 
-### Scenario Selection
+### 3.3 Scenario Selection
 
 如何选择合适的场景进行测试。
 
-### Test Execution
+### 3.4 Test Execution
 
 测试执行流程说明。  
 
-### ADS Assessment
+### 3.5 ADS Assessment
 
 自动驾驶系统的评估方式。
 
