@@ -40,6 +40,11 @@ This is a collection of research papers about the application of Large Language 
   - Authors: V´ıctor A. Braberman, Bonomo-Braberman, Flavia and Charalambous, Yiannis and Colonna, Juan G. and Cordeiro, Lucas C. and de Freitas, Rosiane.(2024)
   - Key words: Downstream Task, LLM4SE, Large Language Models, Prompt Engineering, Software Engineering, Software Verification, Software Testing, Taxonomy
   - Summary: Braberman et al. systematically review how LLM are utilized in software testing and verification by analyzing over 100 studies, proposing a taxonomy of downstream tasks to reveal patterns and guide future research.
+ 
+- [Large models for intelligent transportation systems and autonomous vehicles: A survey](https://www.sciencedirect.com/science/article/pii/S1474034624004348)
+  - Authors: Lu Gan, Wenbo Chu, Guofa Li, Xiaolin Tang, Keqiang Li.(2024)
+  - Key words: ntelligent transportation systems, Autonomous vehicles, Survey, Large models, Efficient deployment techniques.
+  - Summary: Gan et al. system-atically review the applications, challenges, and deployment techniques of large models in intelligent transportation systems and autonomous vehicles, aiming to guide their efficient and scalable implementation.
 
 
 ### Survey of LLM Application
