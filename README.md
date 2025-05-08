@@ -129,8 +129,7 @@ This is a collection of research papers about the application of Large Language 
 #### Data Enrichment
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![GitHub Repo stars](https://img.shields.io/github/stars/taco-group/Re-Align?style=social) <br> [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) <br> | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language
-generation and language-conditioned trajectory synthesis. |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/taco-group/Re-Align?style=social) <br> [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) <br> | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
 
 
 #### Data Labeling
