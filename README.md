@@ -131,8 +131,12 @@ This is a collection of research papers about the application of Large Language 
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) <br> | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
 | <br> [**Mixing left and right-hand driving data in a hierarchical framework with llm generation**](https://ieeexplore.ieee.org/abstract/document/10636276) <br> | IEEE Xplore | 2024-10 | - | right-hand driving trajectories are synthesized by LLMs using left-hand driving data as a reference. |
-| <br> [**Editable scene simulation for autonomous driving via collaborative llm-agents**](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.html) <br> | Open Access | 2024 | （https://github.com/yifanlu0227/ChatSim） | LLMs have been adopted for ground truth generation. |
+| <br> [**Editable scene simulation for autonomous driving via collaborative llm-agents**](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.html) <br> | Open Access | 2024 | https://github.com/yifanlu0227/ChatSim | LLMs have been adopted for ground truth generation. |
 #### Data Labeling
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Automated evaluation of large vision-language models on self-driving corner cases**](https://ieeexplore.ieee.org/abstract/document/10943406) <br> | IEEE Xplore | 2025-4 | - | Introduced the first benchmark for evaluating Large Vision-Language Models (LVLM) in the context of self-driving corner cases |
+| <br> [**Synthetic datasets for autonomous driving: A survey**](https://ieeexplore.ieee.org/abstract/document/10313052) <br> | IEEE Xplore | 2023-11 | - | Manually annotate data is both costly and labor-intensive, thereby necessitating automated solutions to enhance the scalability and efficiency of dataset development |
 #### Data Retrieval
 介绍数据或场景的来源。
 
