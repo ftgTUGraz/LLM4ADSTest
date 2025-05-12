@@ -130,7 +130,7 @@ This is a collection of research papers about the application of Large Language 
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) <br> | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
-| <br> [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) <br> | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
+| <br> [**Mixing left and right-hand driving data in a hierarchical framework with llm generation**](https://ieeexplore.ieee.org/abstract/document/10636276) <br> | IEEE Xplore | 2024-10 | - | right-hand driving trajectories are synthesized by LLMs using left-hand driving data as a reference. |
 
 #### Data Labeling
 #### Data Retrieval
