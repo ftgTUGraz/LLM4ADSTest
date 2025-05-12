@@ -138,8 +138,13 @@ This is a collection of research papers about the application of Large Language 
 | <br> [**Automated evaluation of large vision-language models on self-driving corner cases**](https://ieeexplore.ieee.org/abstract/document/10943406) <br> | IEEE Xplore | 2025-4 | - | Introduced the first benchmark for evaluating Large Vision-Language Models (LVLM) in the context of self-driving corner cases |
 | <br> [**Synthetic datasets for autonomous driving: A survey**](https://ieeexplore.ieee.org/abstract/document/10313052) <br> | IEEE Xplore | 2023-11 | - | Manually annotate data is both costly and labor-intensive, thereby necessitating automated solutions to enhance the scalability and efficiency of dataset development |
 #### Data Retrieval
-介绍数据或场景的来源。
-
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**A multi-model approach for video data retrieval in autonomous vehicle development**](https://link.springer.com/chapter/10.1007/978-3-031-78392-0_3) <br> | PROFES 2024 | 2024-11 | - | Video retrieve efficiency has been improved through the
+application of LLMs. |
+| <br> [**Towards scenario retrieval of real driving data with large vision-language models**](https://pdfs.semanticscholar.org/8efb/fbb034bc406d5e17ff763f9e00ab2925f5a1.pdf) <br> | VEHITS 2024 | 2024 | - | Three LVLMs (CLIP, BLIP-2, and BakLLaVA) were employed to perform image retrieve based on natural language queries. |
+| <br> [**Unveiling objects with sola: An annotation-free image search on the object level for automotive data sets**](https://ieeexplore.ieee.org/abstract/document/10588869) <br> | IEEE Xplore | 2024-7 | https://github.com/yifanlu0227/ChatSim | Proposed an annotation-free, object-level image retrieval approach for AD datasets by combining panoptic segmentation with CLIP to support natural language queries. |
+| <br> [**Bev-tsr: Text-scene retrieval in bev space for autonomous driving**](https://ojs.aaai.org/index.php/AAAI/article/download/32782/34937) <br> | AAAI Conference | 2025 | - | Incorporate LLMs and Bird’s Eye View (BEV) representations to enhance text-to-scene retrieval. |
 ### 3.2 Scenario Generation
 
 详细说明如何生成测试场景。
