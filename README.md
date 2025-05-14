@@ -165,8 +165,8 @@ This is a collection of research papers about the application of Large Language 
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) <br> | IEEE Transactions on Intelligent Vehicles | 2024-11 | - | LLMs have been utilized to interpret user input into structured scenario representations.  |
-| <br> [**Controllable traffic simulation through llm-guided hierarchical chain- of-thought reasoning**](https://arxiv.org/abs/2409.15135) <br> | International Conference on Computer Safety, Reliability, and Security | 2023 | - | Diemert et al. introduce a cooperative framework where LLMs assist hazard identification, though expert oversight is required due to inaccuracies. |
-| <br> [**Safety analysis in the era of large language models: a case study of stpa using chatgpt**](https://www.sciencedirect.com/science/article/pii/S2666827025000052) <br> | Machine Learning with Applications | 2025 | - | Qi et al. extended this to automotive and energy systems, assessing human-LLM collaboration schemes. |
+| <br> [**Controllable traffic simulation through llm-guided hierarchical chain- of-thought reasoning**](https://arxiv.org/abs/2409.15135) <br> | arxiv.org | 2024-9 | - | Proposes a diffusion-based and LLM-enhanced traffic simulation framework that leverages chain-of-thought reasoning and a Frenet-frame-based cost function to enable more controllable and efficient generation of complex traffic scenarios. |
+| <br> [**Chat2scenario: Scenario extraction from dataset through utilization of large language model**](https://ieeexplore.ieee.org/abstract/document/10588843) <br> |  2024 IEEE Intelligent Vehicles Symposium (IV) | 2024-6 | https://github.com/ftgTUGraz/Chat2Scenario | It is used to trigger Pythonscript for automated file generation. |
 
 ### 3.3 Scenario Selection
 
