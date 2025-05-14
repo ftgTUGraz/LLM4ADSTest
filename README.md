@@ -156,7 +156,7 @@ This is a collection of research papers about the application of Large Language 
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Hazard analysis in the era of AI: Assessing the usefulness of ChatGPT4 in STPA hazard analysis**](https://www.sciencedirect.com/science/article/pii/S092575352400198X) <br> | Safety Science | 2024 | - | Charalampidou et al. used ChatGPT-4 to generate loss scenarios for a unmanned aerial vehicle rescue system, yet noting the need for human validation.  |
-
+| <br> [**Can Large Language Models Assist in Hazard Analysis?**](https://link.springer.com/chapter/10.1007/978-3-031-40953-0_35) <br> | International Conference on Computer Safety, Reliability, and Security | 2023 | - | Diemert et al. introduce a cooperative framework where LLMs assist hazard identification, though expert oversight is required due to inaccuracies. |
 
 ### 3.2 Scenario Generation
 
