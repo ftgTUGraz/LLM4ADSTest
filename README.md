@@ -160,11 +160,12 @@ This is a collection of research papers about the application of Large Language 
 | <br> [**Safety analysis in the era of large language models: a case study of stpa using chatgpt**](https://www.sciencedirect.com/science/article/pii/S2666827025000052) <br> | Machine Learning with Applications | 2025 | - | Qi et al. extended this to automotive and energy systems, assessing human-LLM collaboration schemes. |
 
 ### 3.2 Scenario Generation
-##### LLM as an Human-Machine Interface
+#### LLM as an Human-Machine Interface
+##### Structured representatio
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) <br> | IEEE Transactions on Intelligent Vehicles | 2024-11 | - | LLMs have been utilized to interpret user input into structured scenario representations.  |
-| <br> [**Can Large Language Models Assist in Hazard Analysis?**](https://link.springer.com/chapter/10.1007/978-3-031-40953-0_35) <br> | International Conference on Computer Safety, Reliability, and Security | 2023 | - | Diemert et al. introduce a cooperative framework where LLMs assist hazard identification, though expert oversight is required due to inaccuracies. |
+| <br> [**Controllable traffic simulation through llm-guided hierarchical chain- of-thought reasoning**](https://arxiv.org/abs/2409.15135) <br> | International Conference on Computer Safety, Reliability, and Security | 2023 | - | Diemert et al. introduce a cooperative framework where LLMs assist hazard identification, though expert oversight is required due to inaccuracies. |
 | <br> [**Safety analysis in the era of large language models: a case study of stpa using chatgpt**](https://www.sciencedirect.com/science/article/pii/S2666827025000052) <br> | Machine Learning with Applications | 2025 | - | Qi et al. extended this to automotive and energy systems, assessing human-LLM collaboration schemes. |
 
 ### 3.3 Scenario Selection
