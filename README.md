@@ -163,7 +163,7 @@ This is a collection of research papers about the application of Large Language 
 #### LLM as an Human-Machine Interface
 ##### Structured representatio
 | Title | Venue | Date | Code | Summary |
-|:------|:-----:|:----:|----:|:--------|
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | – | LLMs have been utilized to interpret user input into structured scenario representations. |
 | [**Controllable traffic simulation through llm-guided hierarchical chain-of-thought reasoning**](https://arxiv.org/abs/2409.15135) | arxiv.org | 2024-9 | – | Proposes a diffusion-based and LLM-enhanced traffic simulation framework with chain-of-thought reasoning and a Frenet-frame-based cost function. |
 | [**Chat2scenario: Scenario extraction from dataset through utilization of large language model**](https://ieeexplore.ieee.org/abstract/document/10588843) | 2024 IEEE IV Symposium | 2024-6 | [GitHub](https://github.com/ftgTUGraz/Chat2Scenario) | Triggers Python script for automated file generation. |
@@ -174,8 +174,8 @@ This is a collection of research papers about the application of Large Language 
 ##### Loss function and executable code
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | – | LLMs have been utilized to interpret user input into structured scenario representations. |
-| [**Controllable traffic simulation through llm-guided hierarchical chain-of-thought reasoning**](https://arxiv.org/abs/2409.15135) | arxiv.org | 2024-9 | – | Proposes a diffusion-based and LLM-enhanced traffic simulation framework with chain-of-thought reasoning and a Frenet-frame-based cost function. |
+| [**Language-Guided Traffic Simulation via Scene-Level Diffusion**](https://proceedings.mlr.press/v229/zhong23a.html) | 7th conference on robot learning | 2023-12 | – | In this paper, a loss function is derived from user-provided descriptions and integrated into a diffusion model to facilitate executable file generation. |
+| [**Language-Driven Interactive Traffic Trajectory Generation**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e63972d4d9d81b31459d787466ce271-Abstract-Conference.html) | NeurIPS 2024 | 2024 | [GitHub]https://github.com/X1a-jk/InteractTraj | In this paper, the generated code, which includes interaction, vehicle, and map modules, is utilized by a transformer to synthesize vehicle trajectories. |
 | [**Chat2scenario: Scenario extraction from dataset through utilization of large language model**](https://ieeexplore.ieee.org/abstract/document/10588843) | 2024 IEEE IV Symposium | 2024-6 | [GitHub](https://github.com/ftgTUGraz/Chat2Scenario) | Triggers Python script for automated file generation. |
 | [**Benchmarking Large Language Models for Motorway Driving Scenario Understanding**](https://www.sae.org/publications/technical-papers/content/2025-01-7146/) | SAE International | 2025-1 | – | Evaluates six LLMs in interpreting motorway functional scenarios. |
 | [**Language Conditioned Traffic Generation**](https://arxiv.org/abs/2307.07947) | SAE International | 2025-1 | [Project](https://ariostgx.github.io/lctgen/) | Uses structured representations and transformers to generate vehicle trajectories. |
