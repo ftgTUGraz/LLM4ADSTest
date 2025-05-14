@@ -145,6 +145,7 @@ This is a collection of research papers about the application of Large Language 
 | <br> [**Unveiling objects with sola: An annotation-free image search on the object level for automotive data sets**](https://ieeexplore.ieee.org/abstract/document/10588869) <br> | 2024 IEEE Intelligent Vehicles Symposium (IV) | 2024-7 | - | Proposed an annotation-free, object-level image retrieval approach for AD datasets by combining panoptic segmentation with CLIP to support natural language queries. |
 | <br> [**Bev-tsr: Text-scene retrieval in bev space for autonomous driving**](https://ojs.aaai.org/index.php/AAAI/article/download/32782/34937) <br> | AAAI Conference 2025 | 2025 | - | Incorporate LLMs and Bird’s Eye View (BEV) representations to enhance text-to-scene retrieval. |
 #### Hazard Analysis
+##### Hazard Analysis and Risk Assessment (HARA)
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**](https://arxiv.org/pdf/2410.23207) <br> | arxiv.org | 2024-11 | - | At Qualcomm, LLMs enable the identification of 20% more hazardous scenarios in an Autonomous Emergency Braking (AEB) case study compared to manual methods. |
