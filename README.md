@@ -150,6 +150,13 @@ This is a collection of research papers about the application of Large Language 
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**](https://arxiv.org/pdf/2410.23207) <br> | arxiv.org | 2024-11 | - | At Qualcomm, LLMs enable the identification of 20% more hazardous scenarios in an Autonomous Emergency Braking (AEB) case study compared to manual methods. |
 | <br> [**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**](https://dl.acm.org/doi/pdf/10.1145/3644815.3644953) <br> | IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI | 2024-4 | - | Researchers of Volvo Cars investigated LLMs for generating scenarios and malfunctions from functional descriptions using a general framework without relying on standardized databases. |
+| <br> [**Engineering Safety Requirements for Autonomous Driving with Large Language Models**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10628478) <br> | 2024 IEEE 32nd International Requirements Engineering Conference (RE) | 2024 | - | LLMs are applied to generate safety requirements and detect inconsistencies, which enhances efficiency in safety engineering while highlighting the need for expert validate to ensure accuracy. |
+
+##### Systems Theoretic Process Analysis (STPA)
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**](https://arxiv.org/pdf/2410.23207) <br> | arxiv.org | 2024-11 | - | At Qualcomm, LLMs enable the identification of 20% more hazardous scenarios in an Autonomous Emergency Braking (AEB) case study compared to manual methods. |
+
 
 ### 3.2 Scenario Generation
 
