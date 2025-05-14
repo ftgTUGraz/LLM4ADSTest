@@ -160,8 +160,11 @@ This is a collection of research papers about the application of Large Language 
 | <br> [**Safety analysis in the era of large language models: a case study of stpa using chatgpt**](https://www.sciencedirect.com/science/article/pii/S2666827025000052) <br> | Machine Learning with Applications | 2025 | - | Qi et al. extended this to automotive and energy systems, assessing human-LLM collaboration schemes. |
 
 ### 3.2 Scenario Generation
-
-详细说明如何生成测试场景。
+#### LLM as a Human-Machine Interface
+#### LLM as a Data Interpreter
+#### LLM as an Intermediate Format Generator
+#### LLM as a Standard Format Generator
+#### LLM as an Executable Format Generator
 
 ### 3.3 Scenario Selection
 
