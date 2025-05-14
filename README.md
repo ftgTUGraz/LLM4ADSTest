@@ -177,12 +177,7 @@ This is a collection of research papers about the application of Large Language 
 | [**Language-Guided Traffic Simulation via Scene-Level Diffusion**](https://proceedings.mlr.press/v229/zhong23a.html) | 7th conference on robot learning | 2023-12 | – | In this paper, a loss function is derived from user-provided descriptions and integrated into a diffusion model to facilitate executable file generation. |
 | [**Language-Driven Interactive Traffic Trajectory Generation**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e63972d4d9d81b31459d787466ce271-Abstract-Conference.html) | NeurIPS 2024 | 2024 | [GitHub](https://github.com/X1a-jk/InteractTraj) | In this paper, the generated code, which includes interaction, vehicle, and map modules, is utilized by a transformer to synthesize vehicle trajectories. |
 | [**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**](https://ojs.aaai.org/index.php/AAAI/article/view/33130) | AAAI Press | 2025-4 | [Project](https://drivedreamer2.github.io) | In this paper, code is applied to call functional libraries for producing vehicle trajectory data. |
-| [**Benchmarking Large Language Models for Motorway Driving Scenario Understanding**](https://www.sae.org/publications/technical-papers/content/2025-01-7146/) | SAE International | 2025-1 | – | Evaluates six LLMs in interpreting motorway functional scenarios. |
-| [**Language Conditioned Traffic Generation**](https://arxiv.org/abs/2307.07947) | SAE International | 2025-1 | [Project](https://ariostgx.github.io/lctgen/) | Uses structured representations and transformers to generate vehicle trajectories. |
-| [**Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test**](https://arxiv.org/abs/2503.02911) | arxiv.org | 2025-3 | [Demo](https://caixxuan.github.io/Text2Scenario.GitHub.io/) | Converts natural language into scenario elements and simulation files. |
-| [**SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/64ff8d0bf0b0fe2b872a42a0de9668f8-Abstract-Conference.html) | NeurIPS 2024 | 2024 | – | Unified diffusion-based framework with Proto constraints and language-driven control. |
-
-
+| [**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**](https://ieeexplore.ieee.org/abstract/document/10801754) |  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 2024-10 | [Project](https://text-to-drive.github.io/) | Nguyen et al. employ LLM to parse user language into driving behavior code, which is then used to guide reinforcement learning for generating diverse synthetic driving scenarios. |
 
 
 ### 3.3 Scenario Selection
