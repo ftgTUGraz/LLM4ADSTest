@@ -171,6 +171,17 @@ This is a collection of research papers about the application of Large Language 
 | <br> [**Language Conditioned Traffic Generation**](https://arxiv.org/abs/2307.07947) <br> | SAE International | 2025-1 | https://ariostgx.github.io/lctgen/ | In this paper, structured representations are used as inputs to transformer model for generating vehicle trajectories. |
 | <br> [**Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test**](https://arxiv.org/abs/2503.02911) <br> | arxiv.org | 2025-3 | https://caixxuan.github.io/Text2Scenario.GitHub.io/ | In this paper, natural language inputs are converted by LLMs into scenario elements, which are subsequently transformed into simulation-executable files. |
 | <br> [**SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/64ff8d0bf0b0fe2b872a42a0de9668f8-Abstract-Conference.html) <br> | NeurIPS 2024 | 2024 | - |  A unified diffusion-based framework is introduced, where LLMs generate Proto constraints from user input to enable language-driven control of scene initialization and closed-loop simulation. |
+
+| Title | Venue | Date | Code | Summary |
+|:------|:-----:|:----:|----:|:--------|
+| [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | – | LLMs have been utilized to interpret user input into structured scenario representations. |
+| [**Controllable traffic simulation through llm-guided hierarchical chain-of-thought reasoning**](https://arxiv.org/abs/2409.15135) | arxiv.org | 2024-9 | – | Proposes a diffusion-based and LLM-enhanced traffic simulation framework with chain-of-thought reasoning and a Frenet-frame-based cost function. |
+| [**Chat2scenario: Scenario extraction from dataset through utilization of large language model**](https://ieeexplore.ieee.org/abstract/document/10588843) | 2024 IEEE IV Symposium | 2024-6 | [GitHub](https://github.com/ftgTUGraz/Chat2Scenario) | Triggers Python script for automated file generation. |
+| [**Benchmarking Large Language Models for Motorway Driving Scenario Understanding**](https://www.sae.org/publications/technical-papers/content/2025-01-7146/) | SAE International | 2025-1 | – | Evaluates six LLMs in interpreting motorway functional scenarios. |
+| [**Language Conditioned Traffic Generation**](https://arxiv.org/abs/2307.07947) | SAE International | 2025-1 | [Project](https://ariostgx.github.io/lctgen/) | Uses structured representations and transformers to generate vehicle trajectories. |
+| [**Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test**](https://arxiv.org/abs/2503.02911) | arxiv.org | 2025-3 | [Demo](https://caixxuan.github.io/Text2Scenario.GitHub.io/) | Converts natural language into scenario elements and simulation files. |
+| [**SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/64ff8d0bf0b0fe2b872a42a0de9668f8-Abstract-Conference.html) | NeurIPS 2024 | 2024 | – | Unified diffusion-based framework with Proto constraints and language-driven control. |
+
 ### 3.3 Scenario Selection
 
 如何选择合适的场景进行测试。
