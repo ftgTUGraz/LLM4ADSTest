@@ -155,7 +155,7 @@ This is a collection of research papers about the application of Large Language 
 ##### Systems Theoretic Process Analysis (STPA)
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**](https://arxiv.org/pdf/2410.23207) <br> | arxiv.org | 2024-11 | - | At Qualcomm, LLMs enable the identification of 20% more hazardous scenarios in an Autonomous Emergency Braking (AEB) case study compared to manual methods. |
+| <br> [**Hazard analysis in the era of AI: Assessing the usefulness of ChatGPT4 in STPA hazard analysis**](https://www.sciencedirect.com/science/article/pii/S092575352400198X) <br> | Safety Science | 2024 | - | Charalampidou et al. used ChatGPT-4 to generate loss scenarios for a unmanned aerial vehicle rescue system, yet noting the need for human validation.  |
 
 
 ### 3.2 Scenario Generation
