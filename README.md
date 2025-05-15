@@ -210,6 +210,13 @@ This is a collection of research papers about the application of Large Language 
 | [**When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis**](https://arxiv.org/abs/2501.10604) | arxiv.org | 2025-1 | [GitHub](https://github.com/ai4ce/SeeUnsafe) | A MLLM is applied to analyze accident videos, generate narrative descriptions, and identify relevant objects, thereby enabling the transformation of raw video content into functional scenario representations. |
 | [**TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction**](https://arxiv.org/abs/2305.06018) | arxiv.org | 2025-5 | - | Traffic regulations are parsed to produce abstract scenarios with defined syntax, which are subsequently converted into executable scripts through code generation. |
 | [**Legend: A top-down approach to scenario generation of autonomous driving systems assisted by large language models**](https://dl.acm.org/doi/abs/10.1145/3691620.3695520) | 39th IEEE/ACM International Conference | 2024-10 | - | Accident reports are interpreted to extract logical scenarios, which are then instantiated as concrete scenarios using a search-based algorithm. |
+#### LLM as an Standard Format Generator
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**A New Approach to AD/ADAS Test Scenario Generation Using Open-Source Intelligence and Large Language Models**](https://gupea.ub.gu.se/handle/2077/84479) | Bachelor’s thesis, University of Gothenburg and Chalmers University of Technology | 2024 | - | In the study by Zorin et al, accident data related to ADSs are collected from online sources and converted into key textual descriptions using Python scripts. LLMs are then utilized in conjunction with predefined templates to produce scenario files compliant with the ASAM OpenSCENARIO standard |
+| [**LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos**](https://arxiv.org/abs/2406.10857) | arxiv.org | 2024-6 | - |  Tian et al. employ Large Multimodal Models (LMMs) to generate safety-critical scenarios from non-accident traffic videos. Optical flow data and Chain-of-Thought (CoT) reasoning are used to construct abstract representations, which are subsequently transformed into executable programs. |
+
+
 
 ### 3.3 Scenario Selection
 
