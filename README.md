@@ -190,6 +190,16 @@ This is a collection of research papers about the application of Large Language 
 | [**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**](https://arxiv.org/abs/2501.15850) | arxiv.org | 2025-1 | [Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view?pli=1) | Mei et al. employ LLMs to identify the most threatening attacker in each scene from the Waymo Open Dataset[Cite](https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html), enabling the creation of high-risk scenarios for improving the testing and training of autonomous driving systems |
 | [**ChatBEV: A Visual Language Model that Understands BEV Maps**](https://arxiv.org/abs/2503.13938) | arxiv.org | 2025-3 | [GitHub](https://github.com/xuqingyao/ChatBEV) | LLMs are applied to interpret BEV maps derived from the nuPlan dataset[Cite](https://arxiv.org/abs/2106.11810), with the extracted spatial information subsequently used to guide a diffusion model for trajectory generation. |
 | [**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**](https://arxiv.org/abs/2404.08570) | arxiv.org | 2024-4 | [GitHub](https://github.com/zachtian/CRITICAL) |  Tian et al. integrate reinforcement learning and LLMs to optimize safety-critical driving scenarios in the HighwayEnv[GitHub](https://github.com/Farama-Foundation/HighwayEnv) simulation environment. |
+#### LLM as an Intermediate Format Generator
+##### Driving policies
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation**](https://openreview.net/forum?id=lVMKJxsIdC) | ECCV 2024 W-CODA Workshop | 2024-8 | [Project](https://humansim.github.io/) | User prompts are combined
+with environmental context and processed to derive driving strategies, which are subsequently used to inform a driver model  |
+| [**Promptable Closed-loop Traffic Simulation**](https://arxiv.org/abs/2409.05863) | arxiv.org | 2024-9 | [Project](https://ariostgx.github.io/ProSim/) | User prompts are combined with environmental context and processed to derive driving
+strategies, which are subsequently used to inform an auto-regressive trajectory generation model |
+| [**ChatDyn: Language-Driven Multi-Actor Dynamics Generation in Street Scenes**](https://arxiv.org/abs/2412.08685) | arxiv.org | 2024-12 | [Project](https://vfishc.github.io/chatdyn/) |  Wei et al. demonstrate the use of LLMs to interpret linguistic descriptions for trajectory planning, thereby guiding behavior of autonomous agents. |
+
 ### 3.3 Scenario Selection
 
 如何选择合适的场景进行测试。
