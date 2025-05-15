@@ -178,6 +178,12 @@ This is a collection of research papers about the application of Large Language 
 | [**Language-Driven Interactive Traffic Trajectory Generation**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e63972d4d9d81b31459d787466ce271-Abstract-Conference.html) | NeurIPS 2024 | 2024 | [GitHub](https://github.com/X1a-jk/InteractTraj) | In this paper, the generated code, which includes interaction, vehicle, and map modules, is utilized by a transformer to synthesize vehicle trajectories. |
 | [**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**](https://ojs.aaai.org/index.php/AAAI/article/view/33130) | AAAI Press | 2025-4 | [Project](https://drivedreamer2.github.io) | In this paper, code is applied to call functional libraries for producing vehicle trajectory data. |
 | [**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**](https://ieeexplore.ieee.org/abstract/document/10801754) |  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 2024-10 | [Project](https://text-to-drive.github.io/) | Nguyen et al. employ LLM to parse user language into driving behavior code, which is then used to guide reinforcement learning for generating diverse synthetic driving scenarios. |
+#### LLM as an Data Interpreter
+##### Accident reports And Domain knowledge
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**](https://dl.acm.org/doi/abs/10.1145/3691620.3695037) | 39th IEEE/ACM International Conference  | 2024-10 | – | In the study by Guo et al, a framework is proposed in which textual accident reports are parsed into a structured JSON2 format, which is subse-quently processed by a constraint solver to generate waypoints. |
+| [**Domain Knowledge Distillation from Large Language Model: An Empirical Study in the Autonomous Driving Domain**](https://ieeexplore.ieee.org/abstract/document/10422308) | 2023 ITSC | 2024-2 | - | Tang et al. introduce a method in which technical documents are interpreted and transformed into structured ontological elements, enabling automated ontology construction. |
 
 
 ### 3.3 Scenario Selection
