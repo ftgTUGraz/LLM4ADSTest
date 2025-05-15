@@ -220,7 +220,10 @@ This is a collection of research papers about the application of Large Language 
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**A Generative AI-driven Application: Use of Large Language Models for Traffic Scenario Generation**](https://ieeexplore.ieee.org/abstract/document/10415934) | 2023 14th International Conference on Electrical and Electronics Engineering (ELECO) | 2024-2 | - | This work propose a method for generating SUMO scenario based on predefined templates. Structured prompts are designed to guide GPT-4 in producing XML files according to user-defined variables, such as the number of intersections and road segment lengths. |
-
+##### End-to-End Generation
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**A Preliminary Attempt of Deploying AIGC in Autodriving Scenario Generation: Via LLM**](https://dl.acm.org/doi/abs/10.1145/3660395.3660411) | AIBDF 2023 | 2024-6 | - | End-to-end generation was first explored by Wang et al., who prompt general-purpose LLMs to generate XOSC files. |
 
 
 ### 3.3 Scenario Selection
