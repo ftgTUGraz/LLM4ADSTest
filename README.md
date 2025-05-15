@@ -184,8 +184,12 @@ This is a collection of research papers about the application of Large Language 
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**](https://dl.acm.org/doi/abs/10.1145/3691620.3695037) | 39th IEEE/ACM International Conference  | 2024-10 | – | In the study by Guo et al, a framework is proposed in which textual accident reports are parsed into a structured JSON2 format, which is subse-quently processed by a constraint solver to generate waypoints. |
 | [**Domain Knowledge Distillation from Large Language Model: An Empirical Study in the Autonomous Driving Domain**](https://ieeexplore.ieee.org/abstract/document/10422308) | 2023 ITSC | 2024-2 | - | Tang et al. introduce a method in which technical documents are interpreted and transformed into structured ontological elements, enabling automated ontology construction. |
-
-
+##### Naturalistic driving data
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**](https://arxiv.org/abs/2501.15850) | arxiv.org | 2025-1 | [Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view?pli=1) | Mei et al. employ LLMs to identify the most threatening attacker in each scene from the Waymo Open Dataset[Cite](https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html), enabling the creation of high-risk scenarios for improving the testing and training of autonomous driving systems |
+| [**ChatBEV: A Visual Language Model that Understands BEV Maps**](https://arxiv.org/abs/2503.13938) | arxiv.org | 2025-3 | [GitHub](https://github.com/xuqingyao/ChatBEV) | LLMs are applied to interpret BEV maps derived from the nuPlan dataset[Cite](https://arxiv.org/abs/2106.11810), with the extracted spatial information subsequently used to guide a diffusion model for trajectory generation. |
+| [**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**](https://arxiv.org/abs/2404.08570) | arxiv.org | 2024-4 | [GitHub](https://github.com/zachtian/CRITICAL) |  Tian et al. integrate reinforcement learning and LLMs to optimize safety-critical driving scenarios in the HighwayEnv[GitHub](https://github.com/Farama-Foundation/HighwayEnv) simulation environment. |
 ### 3.3 Scenario Selection
 
 如何选择合适的场景进行测试。
