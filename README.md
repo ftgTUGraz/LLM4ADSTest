@@ -194,9 +194,16 @@ This is a collection of research papers about the application of Large Language 
 ##### Driving policies
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation**](https://openreview.net/forum?id=lVMKJxsIdC) | ECCV 2024 W-CODA Workshop | 2024-8 | [Project](https://humansim.github.io/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform a driver model  |
-| [**Promptable Closed-loop Traffic Simulation**](https://arxiv.org/abs/2409.05863) | arxiv.org | 2024-9 | [Project](https://ariostgx.github.io/ProSim/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform an auto-regressive trajectory generation model |
+| [**HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation**](https://openreview.net/forum?id=lVMKJxsIdC) | ECCV 2024 W-CODA Workshop | 2024-8 | [Project](https://humansim.github.io/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform a driver model. |
+| [**Promptable Closed-loop Traffic Simulation**](https://arxiv.org/abs/2409.05863) | arxiv.org | 2024-9 | [Project](https://ariostgx.github.io/ProSim/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform an auto-regressive trajectory generation model. |
 | [**ChatDyn: Language-Driven Multi-Actor Dynamics Generation in Street Scenes**](https://arxiv.org/abs/2412.08685) | arxiv.org | 2024-12 | [Project](https://vfishc.github.io/chatdyn/) |  Wei et al. demonstrate the use of LLMs to interpret linguistic descriptions for trajectory planning, thereby guiding behavior of autonomous agents. |
+##### Scenario elements
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models**](https://arxiv.org/abs/2503.05808) | arxiv.org | 2025-3 | - | An approach is presented in which maps and vehicle assets are generated from textual de-scriptions. Waypoints are selected using a VLM, followed by trajectory generation using a diffusion model. |
+| [**LLMScenario: Large Language Model Driven Scenario Generation**](https://ieeexplore.ieee.org/abstract/document/10529537) |  IEEE Transactions on Systems | 2024-5 | - |  Critical corner cases are produced by integrating user language inputs, failure records, and scenario databases content. |
+| [**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**](https://arxiv.org/abs/2412.06684) | arxiv.org | 2024-12 | - |  A methodology is further extended in this paper, where scenario mutation, prior test feedback, and expert knowledge are incorporated to enhance scenario diversit. |
+| [**ChatGPT-Based Scenario Engineer: A New Framework on Scenario Generation for Trajectory Prediction**](https://ieeexplore.ieee.org/abstract/document/10423819) |  IEEE Transactions on Intelligent Vehicles  | 2024-2 | - |  Descriptive inputs and datasets are processed to generate scenario configurations and associated parameter sets. |
 
 ### 3.3 Scenario Selection
 
