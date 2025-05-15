@@ -201,9 +201,15 @@ This is a collection of research papers about the application of Large Language 
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models**](https://arxiv.org/abs/2503.05808) | arxiv.org | 2025-3 | - | An approach is presented in which maps and vehicle assets are generated from textual de-scriptions. Waypoints are selected using a VLM, followed by trajectory generation using a diffusion model. |
-| [**LLMScenario: Large Language Model Driven Scenario Generation**](https://ieeexplore.ieee.org/abstract/document/10529537) |  IEEE Transactions on Systems | 2024-5 | - |  Critical corner cases are produced by integrating user language inputs, failure records, and scenario databases content. |
-| [**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**](https://arxiv.org/abs/2412.06684) | arxiv.org | 2024-12 | - |  A methodology is further extended in this paper, where scenario mutation, prior test feedback, and expert knowledge are incorporated to enhance scenario diversit. |
+| [**LLMScenario: Large Language Model Driven Scenario Generation**](https://ieeexplore.ieee.org/abstract/document/10529537) | IEEE Transactions on Systems | 2024-5 | - | Critical corner cases are produced by integrating user language inputs, failure records, and scenario databases content. |
+| [**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**](https://arxiv.org/abs/2412.06684) | arxiv.org | 2024-12 | - | A methodology is further extended in this paper, where scenario mutation, prior test feedback, and expert knowledge are incorporated to enhance scenario diversit. |
 | [**ChatGPT-Based Scenario Engineer: A New Framework on Scenario Generation for Trajectory Prediction**](https://ieeexplore.ieee.org/abstract/document/10423819) |  IEEE Transactions on Intelligent Vehicles  | 2024-2 | - |  Descriptive inputs and datasets are processed to generate scenario configurations and associated parameter sets. |
+##### Functional & Abstract & Logical scenario
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis**](https://arxiv.org/abs/2501.10604) | arxiv.org | 2025-1 | [GitHub](https://github.com/ai4ce/SeeUnsafe) | A MLLM is applied to analyze accident videos, generate narrative descriptions, and identify relevant objects, thereby enabling the transformation of raw video content into functional scenario representations. |
+| [**TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction**](https://arxiv.org/abs/2305.06018) | arxiv.org | 2025-5 | - | Traffic regulations are parsed to produce abstract scenarios with defined syntax, which are subsequently converted into executable scripts through code generation. |
+| [**Legend: A top-down approach to scenario generation of autonomous driving systems assisted by large language models**](https://dl.acm.org/doi/abs/10.1145/3691620.3695520) | 39th IEEE/ACM International Conference | 2024-10 | - | Accident reports are interpreted to extract logical scenarios, which are then instantiated as concrete scenarios using a search-based algorithm. |
 
 ### 3.3 Scenario Selection
 
