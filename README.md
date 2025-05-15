@@ -194,10 +194,8 @@ This is a collection of research papers about the application of Large Language 
 ##### Driving policies
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation**](https://openreview.net/forum?id=lVMKJxsIdC) | ECCV 2024 W-CODA Workshop | 2024-8 | [Project](https://humansim.github.io/) | User prompts are combined
-with environmental context and processed to derive driving strategies, which are subsequently used to inform a driver model  |
-| [**Promptable Closed-loop Traffic Simulation**](https://arxiv.org/abs/2409.05863) | arxiv.org | 2024-9 | [Project](https://ariostgx.github.io/ProSim/) | User prompts are combined with environmental context and processed to derive driving
-strategies, which are subsequently used to inform an auto-regressive trajectory generation model |
+| [**HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation**](https://openreview.net/forum?id=lVMKJxsIdC) | ECCV 2024 W-CODA Workshop | 2024-8 | [Project](https://humansim.github.io/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform a driver model  |
+| [**Promptable Closed-loop Traffic Simulation**](https://arxiv.org/abs/2409.05863) | arxiv.org | 2024-9 | [Project](https://ariostgx.github.io/ProSim/) | User prompts are combined with environmental context and processed to derive driving strategies, which are subsequently used to inform an auto-regressive trajectory generation model |
 | [**ChatDyn: Language-Driven Multi-Actor Dynamics Generation in Street Scenes**](https://arxiv.org/abs/2412.08685) | arxiv.org | 2024-12 | [Project](https://vfishc.github.io/chatdyn/) |  Wei et al. demonstrate the use of LLMs to interpret linguistic descriptions for trajectory planning, thereby guiding behavior of autonomous agents. |
 
 ### 3.3 Scenario Selection
