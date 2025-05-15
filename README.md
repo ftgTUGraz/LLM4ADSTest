@@ -215,6 +215,11 @@ This is a collection of research papers about the application of Large Language 
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**A New Approach to AD/ADAS Test Scenario Generation Using Open-Source Intelligence and Large Language Models**](https://gupea.ub.gu.se/handle/2077/84479) | Bachelor’s thesis, University of Gothenburg and Chalmers University of Technology | 2024 | - | In the study by Zorin et al, accident data related to ADSs are collected from online sources and converted into key textual descriptions using Python scripts. LLMs are then utilized in conjunction with predefined templates to produce scenario files compliant with the ASAM OpenSCENARIO standard |
 | [**LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos**](https://arxiv.org/abs/2406.10857) | arxiv.org | 2024-6 | - |  Tian et al. employ Large Multimodal Models (LMMs) to generate safety-critical scenarios from non-accident traffic videos. Optical flow data and Chain-of-Thought (CoT) reasoning are used to construct abstract representations, which are subsequently transformed into executable programs. |
+#### LLM as an Executable Scenario Generator
+##### Template Filling
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**A Generative AI-driven Application: Use of Large Language Models for Traffic Scenario Generation**](https://ieeexplore.ieee.org/abstract/document/10415934) | 2023 14th International Conference on Electrical and Electronics Engineering (ELECO) | 2024-2 | - | This work propose a method for generating SUMO scenario based on predefined templates. Structured prompts are designed to guide GPT-4 in producing XML files according to user-defined variables, such as the number of intersections and road segment lengths. |
 
 
 
