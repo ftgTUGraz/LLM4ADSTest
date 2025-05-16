@@ -240,12 +240,15 @@ This is a collection of research papers about the application of Large Language 
 ### 3.3 Scenario Selection
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3650105.3652296) | FORGE 2024 | 2024-4 | - | LLMs are employed to evaluate the consistency of driving trajectory with real-world conditions. This is achieved by using perturbed variants of the DeepScenario dataset [Cite](https://ieeexplore.ieee.org/abstract/document/10174023) and introducing a robustness score derived from standardized prompts |
+| [**Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3650105.3652296) | FORGE 2024 | 2024-4 | - | LLMs are employed to evaluate the consistency of driving trajectory with real-world conditions. This is achieved by using perturbed variants of the DeepScenario dataset [Cite](https://ieeexplore.ieee.org/abstract/document/10174023) and introducing a robustness score derived from standardized prompts. |
 | [**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024 IEEE International Automated Vehicle Validation Conference (IAVVC) | 2024-10 | - |  Fu et al. utilize a diffusion model in combination with a VLM to generate, narrate, and interpret realistic driving videos. The realism of the outputs is verified to enhance scene understanding. Training on the Waymo Open Dataset [Cite](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html) demonstrated the effectiveness of this approach in advancing VLM applications in AD. |
-
 ### 3.4 Test Execution
+##### Anomaly Detection
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Semantic anomaly detection with large language models**](https://link.springer.com/article/10.1007/s10514-023-10132-6) | Autonomous Robots | 2023-10 | [Project](https://sites.google.com/view/llm-anomaly-detection) | Elhafsi et al. apply OWL-ViT [Cite](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_42) for visual feature extraction and GPT-3.5 for reasoning to detect anomalies in ADSs within the CARLA simulation environment. Their approach outperforms traditional Out-Of-Distribution (OOD) detection methods while offering interpretable analysis, although limitations remain due to the reliability of object detection and LLM inference |
 
-测试执行流程说明。  
+
 
 ### 3.5 ADS Assessment
 
