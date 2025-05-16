@@ -224,7 +224,10 @@ This is a collection of research papers about the application of Large Language 
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**A Preliminary Attempt of Deploying AIGC in Autodriving Scenario Generation: Via LLM**](https://dl.acm.org/doi/abs/10.1145/3660395.3660411) | AIBDF 2023 | 2024-6 | - | End-to-end generation was first explored by Wang et al., who prompt general-purpose LLMs to generate XOSC files. |
-
+| [**Dialogue-based generation of self-driving simulation scenarios using Large Language Models**](https://arxiv.org/abs/2310.17372) | arxiv.org | 2023-10 | - | To improve controllability, Miceli Barone et al. propose a dialogue-based system in which
+SCENIC programs are incrementally constructed through iterative user interactions. |
+| [**From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events**](https://arxiv.org/abs/2411.16027) | arxiv.org | 2024-11 | - | Miao et al. introduce ScriptGPT, which enables the translation of dashcam videos into SCENIC scripts using prompt-engineered video-language models. |
+| [**ScenicNL: Generating Probabilistic Scenario Programs from Natural Language**](https://arxiv.org/abs/2405.03709) | arxiv.org | 2024-5 | - | To address the issue of structural correctness, Elmaaroufi et al. combine compositional prompting with compiler feedback to generate probabilistic scenarios from crash reports. |
 
 ### 3.3 Scenario Selection
 
