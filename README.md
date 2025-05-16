@@ -246,9 +246,13 @@ This is a collection of research papers about the application of Large Language 
 ##### Anomaly Detection
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Semantic anomaly detection with large language models**](https://link.springer.com/article/10.1007/s10514-023-10132-6) | Autonomous Robots | 2023-10 | [Project](https://sites.google.com/view/llm-anomaly-detection) | Elhafsi et al. apply OWL-ViT [Cite](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_42) for visual feature extraction and GPT-3.5 for reasoning to detect anomalies in ADSs within the CARLA simulation environment. Their approach outperforms traditional Out-Of-Distribution (OOD) detection methods while offering interpretable analysis, although limitations remain due to the reliability of object detection and LLM inference |
-
-
+| [**Semantic anomaly detection with large language models**](https://link.springer.com/article/10.1007/s10514-023-10132-6) | Autonomous Robots | 2023-10 | [Project](https://sites.google.com/view/llm-anomaly-detection) | Elhafsi et al. apply OWL-ViT [Cite](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_42) for visual feature extraction and GPT-3.5 for reasoning to detect anomalies in ADSs within the CARLA simulation environment. Their approach outperforms traditional Out-Of-Distribution (OOD) detection methods while offering interpretable analysis, although limitations remain due to the reliability of object detection and LLM inference. |
+##### Simulation Setup Automation
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in Simulation of Urban MObility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | - | LLMs are employed to modify traffic environments, generate traffic scenarios, and configure simulation files for platforms SUMO. The approache support real-time adjustments, enhance scenario diversity, and enable end-to-end automation without the need for manual intervention. |
+| [**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**](https://ojs.aaai.org/index.php/AAAI/article/view/33593) | Thirty-Ninth AAAI Conference on Artificial Intelligence | 2025-4 | - | LLMs are employed to modify traffic environments, generate traffic scenarios, and configure simulation files for platforms CARLA. The approache support real-time adjustments, enhance scenario diversity, and enable end-to-end automation without the need for manual intervention. |
+| [**Realistic Corner Case Generation for Autonomous Vehicles with Multimodal Large Language Model**](https://arxiv.org/abs/2412.00243) | arxiv.org | 2024-12 | - | LLMs are employed to modify traffic environments, generate traffic scenarios, and configure simulation files for platforms CARLA. These approaches support real-time adjustments, enhance scenario diversity, and enable end-to-end automation without the need for manual intervention. |
 
 ### 3.5 ADS Assessment
 
