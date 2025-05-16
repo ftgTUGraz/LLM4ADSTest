@@ -237,10 +237,11 @@ This is a collection of research papers about the application of Large Language 
 | [**ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles**](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles_CVPR_2024_paper.html) | CVPR 2024 | 2024 | [GitHub](https://github.com/javyduck/ChatScene) | Zhang et al. propose ChatScene, which decomposes textual inputs into subcomponents and retrieves relevant domain-specific code snippets to generate safety-critical scenarios |
 | [**LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos**](https://arxiv.org/abs/2406.10857) | arxiv.org | 2024-6 | [GitHub](https://github.com/javyduck/ChatScene) | Expanding upon multimodal capabilities, Tian et al. applied Large Multimodal Models (LMMs) and road-agent retrieval mechanisms to construct semantically coherent and highly customized traffic scenes. |
 | [**Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model**](https://arxiv.org/abs/2409.09575) | arxiv.org | 2024-9 | [Project](https://basiclab.github.io/TTSG/) | Expanding upon multimodal capabilities, Ruan et al. applied Large Multimodal Models (LMMs) and road-agent retrieval mechanisms to construct semantically coherent and highly customized traffic scenes. |
-
 ### 3.3 Scenario Selection
-
-如何选择合适的场景进行测试。
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3650105.3652296) | FORGE 2024 | 2024-4 | - | LLMs are employed to evaluate the consistency of driving trajectory with real-world conditions. This is achieved by using perturbed variants of the DeepScenario dataset [Cite](https://ieeexplore.ieee.org/abstract/document/10174023) and introducing a robustness score derived from standardized prompts |
+| [**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024 IEEE International Automated Vehicle Validation Conference (IAVVC) | 2024-10 | - |  Fu et al. utilize a diffusion model in combination with a VLM to generate, narrate, and interpret realistic driving videos. The realism of the outputs is verified to enhance scene understanding. Training on the Waymo Open Dataset [Cite](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html) demonstrated the effectiveness of this approach in advancing VLM applications in AD. |
 
 ### 3.4 Test Execution
 
