@@ -12,9 +12,9 @@ This is a collection of research papers about the application of Large Language 
 ## Table of Contents 
 - [Overview of LLM4ADSTest](#overview-of-llm4adstest)
   - [Survey of LLM](#survey-of-llm)
-  - [Survey of Scenario-Based Testing](#survey-of-scenario-based)
+  - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
   - [Survey of LLM for AD](#survey-of-llm-for-ad)
-  - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-miscellaneous-domains)
+  - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
   - [Survey of V&V](#survey-of-vv)
 - [TERMINOLOGY](#lterminology)
   - [Scenario](#scenario)
