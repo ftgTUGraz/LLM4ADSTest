@@ -122,12 +122,15 @@ This is a collection of research papers about the application of Large Language 
 ## 2. TERMINOLOGY
 
 ### Scenario
-
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Defining and Substantiating the Terms Scene, Situation, and Scenario for Automated Driving**](https://ieeexplore.ieee.org/abstract/document/7313256) | 2015 IEEE 18th International Conference on Intelligent Transportation Systems | 2015-11 | - | This paper analyzes the scenario representation requirements across ISO 26262 development phases, proposes a consistent abstraction-level terminology, and demonstrates systematic scenario evolution throughout the safety-guided development process. |
+| [**ASAM OpenSCENARIO DSL 2.1.0, Dynamic scenario description, 2024-03-07**](https://publications.pages.asam.net/standards/ASAM_OpenSCENARIO/ASAM_OpenSCENARIO_DSL/latest/conceptual-overview/scenario-abstraction.html) |  International Organization for Standardization, ISO 21448:2022 | 2022 | - | It is an ISO standard that addresses potential hazards arising from functional insufficiencies or misuse in advanced driver assistance and automated driving systems, beyond hardware or software failures. |
 ### Scenario Abstraction Level
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Scenarios for Development, Test and Validation of Automated Vehicles**](https://ieeexplore.ieee.org/abstract/document/8500406) |  2018 IEEE Intelligent Vehicles Symposium (IV) | 2018-10 | - | This paper analyzes the scenario representation requirements across ISO 26262 development phases, proposes a consistent abstraction-level terminology, and demonstrates systematic scenario evolution throughout the safety-guided development process. |
-| [**ASAM OpenSCENARIO DSL 2.1.0, Dynamic scenario description, 2024-03-07**](https://publications.pages.asam.net/standards/ASAM_OpenSCENARIO/ASAM_OpenSCENARIO_DSL/latest/conceptual-overview/scenario-abstraction.html) |  ASAM | 2024 | - | ASAM OpenSCENARIO DSL 2.1.0 is a domain-specific language released in March 2024 for dynamically describing complex driving scenarios in the development and testing of automated driving systems. |
+| [**Road vehicles — Safety of the intended functionality**](https://www.iso.org/standard/77490.html) |  ASAM | 2024 | - | ASAM OpenSCENARIO DSL 2.1.0 is a domain-specific language released in March 2024 for dynamically describing complex driving scenarios in the development and testing of automated driving systems. |
 
 ## 3. LLM APPLICATIONS BY PHASE
 
