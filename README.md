@@ -105,7 +105,7 @@ This is a collection of research papers about the application of Large Language 
   - Source: https://github.com/safr-ai-lab/survey-llm
 
 
-### survey-of-scenario-based
+### Survey of Scenario-Based Testing
 
 这里是关于 LLM 应用的综述。
 
@@ -113,7 +113,7 @@ This is a collection of research papers about the application of Large Language 
 
 这里介绍 LLM 在自动驾驶（AD）中的应用。
 
-### Survey of Scenario Generation
+### Survey of LLM for Miscellaneous Domains
 
 有关场景生成的研究综述。
 
@@ -121,7 +121,11 @@ This is a collection of research papers about the application of Large Language 
 
 验证与确认（V&V）的相关研究综述。
 
-## 2. LLM APPLICATION PHASE
+## 2. TERMINOLOGY
+
+### Scenario
+
+### Scenario Abstraction Level
 
 描述 LLM 在不同阶段的应用。
 
