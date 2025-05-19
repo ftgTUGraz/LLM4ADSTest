@@ -105,7 +105,7 @@ This is a collection of research papers about the application of Large Language 
   - Source: https://github.com/safr-ai-lab/survey-llm
 
 
-### Survey of LLM Application
+### survey-of-scenario-based
 
 这里是关于 LLM 应用的综述。
 
