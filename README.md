@@ -106,7 +106,6 @@ This is a collection of research papers about the application of Large Language 
 
 ### Survey of Scenario-Based Testing
 
-这里是关于 LLM 应用的综述。
 
 ### Survey of LLM for AD
 
@@ -125,8 +124,10 @@ This is a collection of research papers about the application of Large Language 
 ### Scenario
 
 ### Scenario Abstraction Level
-
-描述 LLM 在不同阶段的应用。
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Scenarios for Development, Test and Validation of Automated Vehicles**](https://ieeexplore.ieee.org/abstract/document/8500406) |  2018 IEEE Intelligent Vehicles Symposium (IV) | 2018-10 | - | This paper analyzes the scenario representation requirements across ISO 26262 development phases, proposes a consistent abstraction-level terminology, and demonstrates systematic scenario evolution throughout the safety-guided development process. |
+| [**ASAM OpenSCENARIO DSL 2.1.0, Dynamic scenario description, 2024-03-07**](https://publications.pages.asam.net/standards/ASAM_OpenSCENARIO/ASAM_OpenSCENARIO_DSL/latest/conceptual-overview/scenario-abstraction.html) |  ASAM | 2024 | - | ASAM OpenSCENARIO DSL 2.1.0 is a domain-specific language released in March 2024 for dynamically describing complex driving scenarios in the development and testing of automated driving systems. |
 
 ## 3. LLM APPLICATIONS BY PHASE
 
