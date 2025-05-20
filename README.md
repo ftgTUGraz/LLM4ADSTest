@@ -112,12 +112,9 @@ This is a collection of research papers about the application of Large Language 
 这里介绍 LLM 在自动驾驶（AD）中的应用。
 
 ### Survey of LLM for Miscellaneous Domains
-
-有关场景生成的研究综述。
-
-### Survey of V&V
-
-验证与确认（V&V）的相关研究综述。
+| Title | Venue | Date | Code | Summary |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software Verification and Falsification Approaches**](https://arxiv.org/abs/2404.09384) | arxiv.org | 2024-04 | – | Braberman et al. propose a taxonomy for LLM-based verification task. |
 
 ## 2. TERMINOLOGY
 
