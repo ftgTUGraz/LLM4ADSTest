@@ -115,6 +115,10 @@ This is a collection of research papers about the application of Large Language 
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software Verification and Falsification Approaches**](https://arxiv.org/abs/2404.09384) | arxiv.org | 2024-04 | – | Braberman et al. propose a taxonomy for LLM-based verification task. |
+| [**Large Models Defining a New Era in Intelligence Testing: A Short Discussion and Exploration**](https://ieeexplore.ieee.org/abstract/document/10719620) | IEEE Transactions on Intelligent Vehicles | 2024-10 | – |  Zhou et al. outline frameworks and challenges associated with intelligent system testing. |
+| [**Aligning Multimodal LLM with Human Preference: A Survey**](https://arxiv.org/abs/2503.14504) | IEEE Transactions on Intelligent Vehicles | 2025-3 | [GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) | Yu et al. survey alignment algorithms for MLLMs. |
+| [**Delving Into Multi-Modal Multi-Task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives**](https://ieeexplore.ieee.org/abstract/document/10540321) | IEEE Transactions on Intelligent Vehicles | 2024-5 | [GitHub](https://github.com/rolsheng/MM-VUFM4DS) | Luo et al. [27] review visual foundation models for road scene understanding. |
+| [**Leveraging generative AI for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3D city models for smart city advancement**](https://link.springer.com/article/10.1007/s44212-024-00060-w) | Urban Informatics | 2024-10 | - | In the context of urban innovation, Xu et al. examine the integration of generative AI models with urban digital twins, emphasizing their potential to support smart city management. |
 
 ## 2. TERMINOLOGY
 
