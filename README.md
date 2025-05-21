@@ -15,7 +15,6 @@ This is a collection of research papers about the application of Large Language 
   - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
   - [Survey of LLM for AD](#survey-of-llm-for-ad)
   - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
-  - [Survey of V&V](#survey-of-vv)
 - [TERMINOLOGY](#lterminology)
   - [Scenario](#scenario)
   - [Scenario Abstraction Level](#scenario-abstraction-level)
