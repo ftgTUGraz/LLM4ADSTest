@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
 
 
-This repository accompanies the survey paper "A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems." It compiles recent academic and industrial works on how LLMs are used across different phases of scenario-based ADS testing. The survey also discusses key models, prompting strategies, safety concerns, and integration challenges.
+This repository accompanies the survey paper "*A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems*." It compiles recent academic and industrial works on how LLMs are used across different phases of scenario-based ADS testing. The survey also discusses key models, prompting strategies, safety concerns, and integration challenges.
 
 Contributions are welcome—feel free to suggest new papers via issues or pull requests.
 
