@@ -129,8 +129,6 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 ##### Structured representatio
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-
-=======
 | <br> [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | – | LLMs have been utilized to interpret user input into structured scenario representations. |
 | [**Controllable traffic simulation through llm-guided hierarchical chain-of-thought reasoning**](https://arxiv.org/abs/2409.15135) | arxiv.org | 2024-9 | – | Proposes a diffusion-based and LLM-enhanced traffic simulation framework with chain-of-thought reasoning and a Frenet-frame-based cost function. |
 | [**Chat2scenario: Scenario extraction from dataset through utilization of large language model**](https://ieeexplore.ieee.org/abstract/document/10588843) | 2024 IEEE IV Symposium | 2024-6 | [GitHub](https://github.com/ftgTUGraz/Chat2Scenario) | Triggers Python script for automated file generation. |
