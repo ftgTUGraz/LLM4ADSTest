@@ -9,25 +9,26 @@ This is a collection of research papers about the application of Large Language 
 
 
 ## Table of Contents 
-- [Related Survey](#overview-of-llm4adstest)
-  - [Survey of LLM](#survey-of-llm)
-  - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
-  - [Survey of LLM for AD](#survey-of-llm-for-ad)
-  - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
-- [TERMINOLOGY](#lterminology)
-  - [Scenario](#scenario)
-  - [Scenario Abstraction Level](#scenario-abstraction-level)
-- [LLM APPLICATIONS BY PHASE](#llm-applications-by-phase)
-  - [Scenario Source](#scenario-source)
-  - [Scenario Generation](#scenario-generation)
-  - [Scenario Selection](#scenario-selection)
-  - [Test Execution](#test-execution)
-  - [ADS Assessment](#ads-assessment)
-- [Citation](#citation)
-- [License](#license)
+- [1. Overview of LLM4ADSTest](#1-overview-of-llm4adstest)
+  - [1.1 Survey of LLM](#survey-of-llm)
+  - [1.2 Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
+  - [1.3 Survey of LLM for AD](#survey-of-llm-for-ad)
+  - [1.4 Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
+- [2. TERMINOLOGY](#2-terminology)
+  - [2.1 Scenario](#scenario)
+  - [2.2 Scenario Abstraction Level](#scenario-abstraction-level)
+- [3. LLM APPLICATIONS BY PHASE](#3-llm-applications-by-phase)
+  - [3.1 Scenario Source](#scenario-source)
+  - [3.2 Scenario Generation](#scenario-generation)
+  - [3.3 Scenario Selection](#scenario-selection)
+  - [3.4 Test Execution](#test-execution)
+  - [3.5 ADS Assessment](#ads-assessment)
+- [4. Citation](#citation)
+- [5. License](#license)
 
 
-## 1. Overview of LLM4ADSTest
+
+## 1. Related Survey
 
 ### Survey of LLM
 | Title | Venue | Date | Code | Summary |
