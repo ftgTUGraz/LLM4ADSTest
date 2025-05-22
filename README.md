@@ -17,6 +17,12 @@ This repository accompanies the survey paper "*A Survey on the Application of La
 
 Contributions are welcome—feel free to suggest new papers via issues or pull requests.
 
+## Citation
+If you think this repo is usful, please cite it.
+```bibtex
+
+```
+
 
 ## Table of Contents
 - [1. Related Survey](#1-related-survey)
@@ -274,9 +280,6 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**](https://arxiv.org/abs/2503.05164) | arxiv.org | 2025-3 | - | You et al. [42] employ LLMs to perform hierarchical assessments by using CoT prompting combined with RAG. The models simulate human-like reasoning across multiple decision-making levels, and their outputs are validated through CARLA simulations and human evaluators. |
-## Citation
-
-
 
 ## License
 
