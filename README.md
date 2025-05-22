@@ -1,17 +1,13 @@
 # A Suevy on the Application of Large Language Model in Scenario-Based Testing of Automated Driving Systems
 
-![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?color=9cf)
-[![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
-
 <div align="center">
-    Yongqi Zhao,  
-    Ji Zhou,  
-    Dong Bi,  
-    Tomislav Mihalj,  
-    Jia Hu*,   
-    Arno Eichberger
+
+  ![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?color=yellow)
+  ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?color=9cf)
+  [![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
+
 </div>
+
 
 This repository accompanies the survey paper "*A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems*." It compiles recent academic and industrial works on how LLMs are used across different phases of scenario-based ADS testing. The survey also discusses key models, prompting strategies, safety concerns, and integration challenges.
 
