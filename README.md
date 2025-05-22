@@ -1,7 +1,7 @@
 <div align="center">
 
   # A Suevy on the Application of Large Language Model in Scenario-Based Testing of Automated Driving Systems
-  
+
 </div>
 
 <div align="center">
@@ -19,22 +19,22 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 
 
 ## Table of Contents 
-- [1. Overview of LLM4ADSTest](#1-overview-of-llm4adstest)
-  - [1.1 Survey of LLM](#survey-of-llm)
-  - [1.2 Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
-  - [1.3 Survey of LLM for AD](#survey-of-llm-for-ad)
-  - [1.4 Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
+- [1. Related Survey](#1-related-survey)
+  - [Survey of LLM](#survey-of-llm)
+  - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
+  - [Survey of LLM for AD](#survey-of-llm-for-ad)
+  - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
 - [2. TERMINOLOGY](#2-terminology)
-  - [2.1 Scenario](#scenario)
-  - [2.2 Scenario Abstraction Level](#scenario-abstraction-level)
+  - [Scenario](#scenario)
+  - [Scenario Abstraction Level](#scenario-abstraction-level)
 - [3. LLM APPLICATIONS BY PHASE](#3-llm-applications-by-phase)
-  - [3.1 Scenario Source](#scenario-source)
-  - [3.2 Scenario Generation](#scenario-generation)
-  - [3.3 Scenario Selection](#scenario-selection)
-  - [3.4 Test Execution](#test-execution)
-  - [3.5 ADS Assessment](#ads-assessment)
-- [4. Citation](#citation)
-- [5. License](#license)
+  - [3.1 Scenario Source](#31-scenario-source)
+  - [3.2 Scenario Generation](#32-scenario-generation)
+  - [3.3 Scenario Selection](#33-scenario-selection)
+  - [3.4 Test Execution](#34-test-execution)
+  - [3.5 ADS Assessment](#35-ads-assessment)
+- [4. Citation](#4-citation)
+- [5. License](#5-license)
 
 
 
