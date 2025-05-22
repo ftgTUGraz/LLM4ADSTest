@@ -18,7 +18,7 @@ This repository accompanies the survey paper "*A Survey on the Application of La
 Contributions are welcome—feel free to suggest new papers via issues or pull requests.
 
 
-## Table of Contents 
+## Table of Contents
 - [1. Related Survey](#1-related-survey)
   - [Survey of LLM](#survey-of-llm)
   - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
@@ -30,11 +30,11 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 - [3. LLM APPLICATIONS BY PHASE](#3-llm-applications-by-phase)
   - [3.1 Scenario Source](#31-scenario-source)
     - [Data Enrichment](#data-enrichment)
-    - [Data Labeling](#data-labeling)
-    - [Data Retrieval](#data-retrieval)
-    - [Hazard Analysis](#hazard-analysis)
+    - [Data Enrichment Through Hazard Analysis](#data-enrichment-through-hazard-analysis)
       - [Hazard Analysis and Risk Assessment (HARA)](#hazard-analysis-and-risk-assessment-hara)
       - [Systems Theoretic Process Analysis (STPA)](#systems-theoretic-process-analysis-stpa)
+    - [Data Labeling](#data-labeling)
+    - [Data Retrieval](#data-retrieval)
   - [3.2 Scenario Generation](#32-scenario-generation)
     - [LLM as an Human-Machine Interface](#llm-as-an-human-machine-interface)
       - [Structured representatio](#structured-representatio)
@@ -61,6 +61,7 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
     - [Intelligence level evaluation](#intelligence-level-evaluation)
 - [4. Citation](#4-citation)
 - [5. License](#5-license)
+
 
 
 ## 1. Related Survey
