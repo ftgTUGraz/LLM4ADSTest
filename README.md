@@ -130,19 +130,7 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 | [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
 | [**Mixing left and right-hand driving data in a hierarchical framework with llm generation**](https://ieeexplore.ieee.org/abstract/document/10636276) |  IEEE Robotics and Automation Letters | 2024-10 | - | right-hand driving trajectories are synthesized by LLMs using left-hand driving data as a reference. |
 | [**Editable scene simulation for autonomous driving via collaborative llm-agents**](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.html) | CVPR 2024 | 2024 | [GitHub](https://github.com/yifanlu0227/ChatSim) | LLMs have been adopted for ground truth generation. |
-#### Data Labeling
-|  Title  |   Venue  |   Date   |   Code   | Summary  |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Automated evaluation of large vision-language models on self-driving corner cases**](https://ieeexplore.ieee.org/abstract/document/10943406) <br> | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) | 2025-4 | - | Introduced the first benchmark for evaluating Large Vision-Language Models (LVLM) in the context of self-driving corner cases |
-| <br> [**Synthetic datasets for autonomous driving: A survey**](https://ieeexplore.ieee.org/abstract/document/10313052) <br> |  IEEE Transactions on Intelligent Vehicles | 2023-11 | - | Manually annotate data is both costly and labor-intensive, thereby necessitating automated solutions to enhance the scalability and efficiency of dataset development |
-#### Data Retrieval
-|  Title  |   Venue  |   Date   |   Code   | Summary  |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**A multi-model approach for video data retrieval in autonomous vehicle development**](https://link.springer.com/chapter/10.1007/978-3-031-78392-0_3) <br> | PROFES 2024 | 2024-11 | - | Video retrieve efficiency has been improved through the application of LLMs. |
-| <br> [**Towards scenario retrieval of real driving data with large vision-language models**](https://pdfs.semanticscholar.org/8efb/fbb034bc406d5e17ff763f9e00ab2925f5a1.pdf) <br> | 10th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2024) | 2024 | - | Three LVLMs (CLIP, BLIP-2, and BakLLaVA) were employed to perform image retrieve based on natural language queries. |
-| <br> [**Unveiling objects with sola: An annotation-free image search on the object level for automotive data sets**](https://ieeexplore.ieee.org/abstract/document/10588869) <br> | 2024 IEEE Intelligent Vehicles Symposium (IV) | 2024-7 | - | Proposed an annotation-free, object-level image retrieval approach for AD datasets by combining panoptic segmentation with CLIP to support natural language queries. |
-| <br> [**Bev-tsr: Text-scene retrieval in bev space for autonomous driving**](https://ojs.aaai.org/index.php/AAAI/article/download/32782/34937) <br> | AAAI Conference 2025 | 2025 | - | Incorporate LLMs and Bird’s Eye View (BEV) representations to enhance text-to-scene retrieval. |
-#### Hazard Analysis
+#### Data Enrichment Through Hazard Analysis
 ##### Hazard Analysis and Risk Assessment (HARA)
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -156,6 +144,19 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 | <br> [**Hazard analysis in the era of AI: Assessing the usefulness of ChatGPT4 in STPA hazard analysis**](https://www.sciencedirect.com/science/article/pii/S092575352400198X) <br> | Safety Science | 2024 | - | Charalampidou et al. used ChatGPT-4 to generate loss scenarios for a unmanned aerial vehicle rescue system, yet noting the need for human validation.  |
 | <br> [**Can Large Language Models Assist in Hazard Analysis?**](https://link.springer.com/chapter/10.1007/978-3-031-40953-0_35) <br> | International Conference on Computer Safety, Reliability, and Security | 2023 | - | Diemert et al. introduce a cooperative framework where LLMs assist hazard identification, though expert oversight is required due to inaccuracies. |
 | <br> [**Safety analysis in the era of large language models: a case study of stpa using chatgpt**](https://www.sciencedirect.com/science/article/pii/S2666827025000052) <br> | Machine Learning with Applications | 2025 | - | Qi et al. extended this to automotive and energy systems, assessing human-LLM collaboration schemes. |
+#### Data Labeling
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Automated evaluation of large vision-language models on self-driving corner cases**](https://ieeexplore.ieee.org/abstract/document/10943406) <br> | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) | 2025-4 | - | Introduced the first benchmark for evaluating Large Vision-Language Models (LVLM) in the context of self-driving corner cases |
+| <br> [**Synthetic datasets for autonomous driving: A survey**](https://ieeexplore.ieee.org/abstract/document/10313052) <br> |  IEEE Transactions on Intelligent Vehicles | 2023-11 | - | Manually annotate data is both costly and labor-intensive, thereby necessitating automated solutions to enhance the scalability and efficiency of dataset development |
+#### Data Retrieval
+|  Title  |   Venue  |   Date   |   Code   | Summary  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**A multi-model approach for video data retrieval in autonomous vehicle development**](https://link.springer.com/chapter/10.1007/978-3-031-78392-0_3) <br> | PROFES 2024 | 2024-11 | - | Video retrieve efficiency has been improved through the application of LLMs. |
+| <br> [**Towards scenario retrieval of real driving data with large vision-language models**](https://pdfs.semanticscholar.org/8efb/fbb034bc406d5e17ff763f9e00ab2925f5a1.pdf) <br> | 10th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2024) | 2024 | - | Three LVLMs (CLIP, BLIP-2, and BakLLaVA) were employed to perform image retrieve based on natural language queries. |
+| <br> [**Unveiling objects with sola: An annotation-free image search on the object level for automotive data sets**](https://ieeexplore.ieee.org/abstract/document/10588869) <br> | 2024 IEEE Intelligent Vehicles Symposium (IV) | 2024-7 | - | Proposed an annotation-free, object-level image retrieval approach for AD datasets by combining panoptic segmentation with CLIP to support natural language queries. |
+| <br> [**Bev-tsr: Text-scene retrieval in bev space for autonomous driving**](https://ojs.aaai.org/index.php/AAAI/article/download/32782/34937) <br> | AAAI Conference 2025 | 2025 | - | Incorporate LLMs and Bird’s Eye View (BEV) representations to enhance text-to-scene retrieval. |
+
 
 ### 3.2 Scenario Generation
 #### LLM as an Human-Machine Interface
