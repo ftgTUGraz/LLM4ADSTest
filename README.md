@@ -115,7 +115,7 @@ If you think this repo is useful, please cite it.
 | [**Delving Into Multi-Modal Multi-Task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives**](https://ieeexplore.ieee.org/abstract/document/10540321) | IEEE Transactions on Intelligent Vehicles | 2024-5 | [GitHub](https://github.com/rolsheng/MM-VUFM4DS) | Luo et al. [27] review visual foundation models for road scene understanding. |
 | [**Leveraging generative AI for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3D city models for smart city advancement**](https://link.springer.com/article/10.1007/s44212-024-00060-w) | Urban Informatics | 2024-10 | - | In the context of urban innovation, Xu et al. examine the integration of generative AI models with urban digital twins, emphasizing their potential to support smart city management. |
 
-## 2. TERMINOLOGY
+## 2. Terminology
 
 ### Scenario
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
@@ -128,7 +128,7 @@ If you think this repo is useful, please cite it.
 | [**Scenarios for Development, Test and Validation of Automated Vehicles**](https://ieeexplore.ieee.org/abstract/document/8500406) |  2018 IEEE Intelligent Vehicles Symposium (IV) | 2018-10 | - | This paper analyzes the scenario representation requirements across ISO 26262 development phases, proposes a consistent abstraction-level terminology, and demonstrates systematic scenario evolution throughout the safety-guided development process. |
 | [**Road vehicles — Safety of the intended functionality**](https://www.iso.org/standard/77490.html) |  ASAM | 2024 | - | ASAM OpenSCENARIO DSL 2.1.0 is a domain-specific language released in March 2024 for dynamically describing complex driving scenarios in the development and testing of automated driving systems. |
 
-## 3. LLM APPLICATIONS BY PHASE
+## 3. LLM Applications by Phase
 
 ### 3.1 Scenario Source
 #### Data Enrichment
