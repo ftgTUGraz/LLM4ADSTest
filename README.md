@@ -30,10 +30,10 @@ If you think this repo is useful, please cite it.
   - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
   - [Survey of LLM for AD](#survey-of-llm-for-ad)
   - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
-- [2. TERMINOLOGY](#2-terminology)
+- [2. Terminology](#2-terminology)
   - [Scenario](#scenario)
   - [Scenario Abstraction Level](#scenario-abstraction-level)
-- [3. LLM APPLICATIONS BY PHASE](#3-llm-applications-by-phase)
+- [3. LLM Applications by Phase](#3-llm-applications-by-phase)
   - [3.1 Scenario Source](#31-scenario-source)
     - [Data Enrichment](#data-enrichment)
     - [Data Enrichment Through Hazard Analysis](#data-enrichment-through-hazard-analysis)
@@ -65,9 +65,7 @@ If you think this repo is useful, please cite it.
   - [3.5 ADS Assessment](#35-ads-assessment)
     - [Safety performance evaluatio](#safety-performance-evaluatio)
     - [Intelligence level evaluation](#intelligence-level-evaluation)
-- [4. Citation](#4-citation)
-- [5. License](#5-license)
-
+- [4. License](#4-license)
 
 
 ## 1. Related Survey
