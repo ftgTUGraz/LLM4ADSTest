@@ -241,10 +241,10 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 | [**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**](https://arxiv.org/abs/2503.05164) | arxiv.org | 2025-3 | - | You et al. [42] employ LLMs to perform hierarchical assessments by using CoT prompting combined with RAG. The models simulate human-like reasoning across multiple decision-making levels, and their outputs are validated through CARLA simulations and human evaluators. |
 ## Citation
 
-如需引用本文档或研究内容，请参考如下格式……
+
 
 ## License
 
-本项目使用 MIT License。
+
 
 
