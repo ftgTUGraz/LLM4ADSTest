@@ -19,7 +19,7 @@ This repository accompanies the survey paper "[*A Survey on the Application of L
 Contributions are welcome—feel free to suggest new papers via issues or pull requests.
 
 ## Citation
-If you think this repo is useful, please cite it.
+If you think this repo is useful, please cite our paper:
 ```bibtex
 
 ```
