@@ -6,9 +6,8 @@
 
 <div align="center">
 
-  ![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?color=yellow)
-  ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?color=9cf)
-  [![GitHub license](https://img.shields.io/github/license/ftgTUGraz/LLM4ADSTest)](https://github.com/ftgTUGraz/LLM4ADSTest/blob/main/LICENSE)
+  ![GitHub stars](https://github.com/ftgTUGraz/LLM4ADSTest/stargazers)
+  ![GitHub forks](https://github.com/ftgTUGraz/LLM4ADSTest/forks)
 
 </div>
 
