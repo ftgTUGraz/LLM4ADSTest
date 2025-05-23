@@ -53,7 +53,7 @@ If you think this repo is useful, please cite our paper:
   - [3.2 Scenario Generation](#32-scenario-generation)
     - [LLM as an Human-Machine Interface](#llm-as-an-human-machine-interface)
       - [Structured representatio](#structured-representatio)
-    - [Loss function and executable code](#loss-function-and-executable-code)
+      - [Loss function and executable code](#loss-function-and-executable-code)
     - [LLM as an Data Interpreter](#llm-as-an-data-interpreter)
       - [Accident reports And Domain knowledge](#accident-reports-and-domain-knowledge)
       - [Naturalistic driving data](#naturalistic-driving-data)
@@ -174,7 +174,7 @@ If you think this repo is useful, please cite our paper:
 
 ### 3.2 Scenario Generation
 #### LLM as an Human-Machine Interface
-##### Structured representatio
+##### Structured representation
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**chatsumo: Large language model for automating traffic scenario generation in simulation of urban mobility**](https://ieeexplore.ieee.org/abstract/document/10770822) | IEEE Transactions on Intelligent Vehicles | 2024-11 | – | LLMs have been utilized to interpret user input into structured scenario representations. |
