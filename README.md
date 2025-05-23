@@ -6,10 +6,11 @@
 
 <div align="center">
 
-  ![GitHub stars](https://github.com/ftgTUGraz/LLM4ADSTest/stargazers)
-  ![GitHub forks](https://github.com/ftgTUGraz/LLM4ADSTest/forks)
+  ![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?style=social)
 
 </div>
+
 
 
 This repository accompanies the survey paper "[*A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems*](https://arxiv.org/pdf/2505.16587v1)." It compiles recent academic and industrial works on how LLMs are used across different phases of scenario-based ADS testing. The survey also discusses key models, prompting strategies, safety concerns, and integration challenges.
