@@ -243,7 +243,7 @@ If you think this repo is useful, please cite it.
 | [**ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles**](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles_CVPR_2024_paper.html) | CVPR 2024 | 2024 | [GitHub](https://github.com/javyduck/ChatScene) | Zhang et al. propose ChatScene, which decomposes textual inputs into subcomponents and retrieves relevant domain-specific code snippets to generate safety-critical scenarios |
 | [**LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos**](https://arxiv.org/abs/2406.10857) | arxiv.org | 2024-6 | [GitHub](https://github.com/javyduck/ChatScene) | Expanding upon multimodal capabilities, Tian et al. applied Large Multimodal Models (LMMs) and road-agent retrieval mechanisms to construct semantically coherent and highly customized traffic scenes. |
 | [**Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model**](https://arxiv.org/abs/2409.09575) | arxiv.org | 2024-9 | [Project](https://basiclab.github.io/TTSG/) | Expanding upon multimodal capabilities, Ruan et al. applied Large Multimodal Models (LMMs) and road-agent retrieval mechanisms to construct semantically coherent and highly customized traffic scenes. |
->>>>>>> 08008adf6c72fdd04e1e8037541543029fb7dc17
+
 ### 3.3 Scenario Selection
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
