@@ -5,11 +5,10 @@
 </div>
 
 <div align="center">
-
-  ![GitHub stars](https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?style=social)
-
+  <img src="https://img.shields.io/github/stars/ftgTUGraz/LLM4ADSTest?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/ftgTUGraz/LLM4ADSTest?style=social" alt="GitHub forks">
 </div>
+
 
 
 
