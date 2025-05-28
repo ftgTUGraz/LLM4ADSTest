@@ -71,6 +71,7 @@ If you think this repo is useful, please cite our paper:
     - [Anomaly Detection](#anomaly-detection)
     - [Simulation Setup Automation](#simulation-setup-automation)
     - [Scenario Optimization](#scenario-optimization)
+    - [Hazard Prediction](#hazard-prediction)
   - [3.5 ADS Assessment](#35-ads-assessment)
     - [Safety performance evaluatio](#safety-performance-evaluatio)
     - [Intelligence level evaluation](#intelligence-level-evaluation)
