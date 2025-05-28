@@ -280,7 +280,7 @@ If you think this repo is useful, please cite our paper:
 ##### Hazard Prediction
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**](https://arxiv.org/pdf/2502.00262.) | arxiv.org | 2025-02 | - | This work proposes INSIGHT, a vision-language model framework that localizes and explains potential hazards in autonomous driving scenes to enhance edge-case safety during test execution. |
+| [**INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**](https://arxiv.org/pdf/2502.) | arxiv.org | 2025-02 | - | This work proposes INSIGHT, a vision-language model framework that localizes and explains potential hazards in autonomous driving scenes to enhance edge-case safety during test execution. |
 
 
 
