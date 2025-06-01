@@ -259,6 +259,8 @@ If you think this repo is useful, please cite our paper:
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3650105.3652296) | FORGE 2024 | 2024-4 | - | LLMs are employed to evaluate the consistency of driving trajectory with real-world conditions. This is achieved by using perturbed variants of the DeepScenario dataset [Cite](https://ieeexplore.ieee.org/abstract/document/10174023) and introducing a robustness score derived from standardized prompts. |
 | [**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024 IEEE International Automated Vehicle Validation Conference (IAVVC) | 2024-10 | - |  Fu et al. utilize a diffusion model in combination with a VLM to generate, narrate, and interpret realistic driving videos. The realism of the outputs is verified to enhance scene understanding. Training on the Waymo Open Dataset [Cite](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html) demonstrated the effectiveness of this approach in advancing VLM applications in AD. |
+| [**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**](https://arxiv.org/pdf/2505.22067) | arxiv | 2025-05 | - |  The paper proposes SERA, a framework that uses LLMs to identify, retrieve, and repair failure scenarios, enabling autonomous driving systems to self-evolve and improve robustness. |
+
 ### 3.4 Test Execution
 ##### Anomaly Detection
 | Title | Venue | Date | Code | Summary |
