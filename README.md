@@ -199,6 +199,7 @@ If you think this repo is useful, please cite our paper:
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**](https://dl.acm.org/doi/abs/10.1145/3691620.3695037) | 39th IEEE/ACM International Conference  | 2024-10 | – | In the study by Guo et al, a framework is proposed in which textual accident reports are parsed into a structured JSON2 format, which is subse-quently processed by a constraint solver to generate waypoints. |
 | [**Domain Knowledge Distillation from Large Language Model: An Empirical Study in the Autonomous Driving Domain**](https://ieeexplore.ieee.org/abstract/document/10422308) | 2023 ITSC | 2024-2 | - | Tang et al. introduce a method in which technical documents are interpreted and transformed into structured ontological elements, enabling automated ontology construction. |
+| [**CrashAgent: Crash Scenario Generation via Multi-modal Reasoning**](https://arxiv.org/pdf/2505.18341#page=1.92) | arxiv | 2025-5 | - | The paper presents CrashAgent, a framework that leverages multi-modal large language models to convert real-world crash reports into realistic, simulation-ready safety-critical driving scenarios. |
 ##### Naturalistic driving data
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
