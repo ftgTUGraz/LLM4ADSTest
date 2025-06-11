@@ -145,6 +145,8 @@ If you think this repo is useful, please cite our paper:
 | [**Learning a Bi-Directional Driving Data Generator Via Large Multi-Modal Model Tuning**](https://openreview.net/pdf?id=2UozyR49ZB) | OpenReview | 2024-11 | - | LLMs are applied for both trajectory-conditioned language generation and language-conditioned trajectory synthesis. |
 | [**Mixing left and right-hand driving data in a hierarchical framework with llm generation**](https://ieeexplore.ieee.org/abstract/document/10636276) |  IEEE Robotics and Automation Letters | 2024-10 | - | right-hand driving trajectories are synthesized by LLMs using left-hand driving data as a reference. |
 | [**Editable scene simulation for autonomous driving via collaborative llm-agents**](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.html) | CVPR 2024 | 2024 | [GitHub](https://github.com/yifanlu0227/ChatSim) | LLMs have been adopted for ground truth generation. |
+| [**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**](https://arxiv.org/abs/2504.04419) | arXiv | 2025 | - | The LLM performs reasoning, trajectory planning, and explanation by leveraging retrieved similar driving scenarios. |
+
 #### Data Enrichment Through Hazard Analysis
 ##### Hazard Analysis and Risk Assessment (HARA)
 |  Title  |   Venue  |   Date   |   Code   | Summary  |
