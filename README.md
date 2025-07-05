@@ -247,6 +247,7 @@ If you think this repo is useful, please cite our paper:
 | [**Dialogue-based generation of self-driving simulation scenarios using Large Language Models**](https://arxiv.org/abs/2310.17372) | arxiv.org | 2023-10 | - | To improve controllability, Miceli Barone et al. propose a dialogue-based system in which SCENIC programs are incrementally constructed through iterative user interactions. |
 | [**From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events**](https://arxiv.org/abs/2411.16027) | arxiv.org | 2024-11 | - | Miao et al. introduce ScriptGPT, which enables the translation of dashcam videos into SCENIC scripts using prompt-engineered video-language models. |
 | [**ScenicNL: Generating Probabilistic Scenario Programs from Natural Language**](https://arxiv.org/abs/2405.03709) | arxiv.org | 2024-5 | - | To address the issue of structural correctness, Elmaaroufi et al. combine compositional prompting with compiler feedback to generate probabilistic scenarios from crash reports. |
+| [**LLM-based Realistic Safety-Critical Driving Video Generation**](https://arxiv.org/pdf/2507.01264) | arxiv.org | 2025-07 | - | This paper proposes a framework that uses LLMs to automatically generate safety-critical driving scenarios in CARLA via few-shot code generation and transforms them into realistic videos using Cosmos-Transfer1, enhancing simulation-based testing for autonomous vehicles. |
 ##### Hybrid Generation
 | Title | Venue | Date | Code | Summary |
 |:--------|:--------:|:--------:|:--------:|:--------:|
