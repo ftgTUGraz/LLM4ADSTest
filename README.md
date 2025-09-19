@@ -12,11 +12,12 @@
 </div>
 
 
-
+## Objective
 This repository accompanies the survey paper "[*A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems*](https://arxiv.org/pdf/2505.16587v1)." It compiles recent academic and industrial works on how LLMs are used across different phases of scenario-based ADS testing. The survey also discusses key models, prompting strategies, safety concerns, and integration challenges.
 
-
 Contributions are welcome—feel free to suggest new papers via issues or pull requests. Alternatively, you can also contact us via [yongqi.zhao@tugraz.at](mailto:yongqi.zhao@tugraz.at) and [dong.bi@tugraz.at](mailto:dong.bi@tugraz.at). **This repository will be continuously updated as new relevant papers emerge**, and we appreciate suggestions from the community to help keep the collection comprehensive and current.
+
+## How to use
 
 ## Citation
 If you think this repo is useful, please cite our paper:
