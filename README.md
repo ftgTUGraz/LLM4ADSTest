@@ -1,6 +1,6 @@
 <div align="center">
 
-  # A Suevy on the Application of Large Language Model in Scenario-Based Testing of Automated Driving Systems
+  # A Survey on the Application of Large Language Model in Scenario-Based Testing of Automated Driving Systems
 
 </div>
 
