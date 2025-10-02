@@ -20,7 +20,7 @@ Contributions are welcome—feel free to suggest new papers via issues or pull r
 ## How to use
 You can quickly find the literature related to different modules covered in the survey paper by consulting the tables in the repository, including each work’s title, publication date, code resources, and a brief summary.
 
-If you have a paper relevant to the application of LLMs in Scenario-Based Testing of ADS, ([please nominate them for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform)).
+The repository is continuously updated to track the field’s latest advances, with new works summarized and systematically organized. If you have a paper relevant to the application of LLMs in Scenario-Based Testing of ADS, [please nominate them for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform).
 
 ## Citation
 If you think this repo is useful, please cite our paper:
