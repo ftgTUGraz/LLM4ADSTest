@@ -17,11 +17,6 @@ This repository accompanies the survey paper "[*A Survey on the Application of L
 
 We warmly welcome community contributions—researchers are encouraged to [nominate new papers for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform), open issues, or submit pull requests. For direct communication, please contact us at [yongqi.zhao@tugraz.at](mailto:yongqi.zhao@tugraz.at) or [dong.bi@tugraz.at](mailto:dong.bi@tugraz.at). Your suggestions and feedback are highly appreciated in helping us keep this collection comprehensive and up to date.
 
-## Usage
-You can quickly find the literature related to different modules covered in the survey paper by consulting the tables in the repository, including each work’s title, publication date, code resources, and a brief summary.
-
-The repository is continuously updated to track the field’s latest advances, with new works summarized and systematically organized. If you have a paper relevant to the application of LLMs in Scenario-Based Testing of ADS, [please nominate them for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform).
-
 ## Contents
 - [1. Related Survey](#1-related-survey)
   - [Survey of LLM](#survey-of-llm)
@@ -66,6 +61,11 @@ The repository is continuously updated to track the field’s latest advances, w
     - [Intelligence level evaluation](#intelligence-level-evaluation)
 - [4. License](#4-license)
 
+## Usage
+You can quickly find the literature related to different modules covered in the survey paper by consulting the tables in the repository, including each work’s title, publication date, code resources, and a brief summary.
+
+The repository is continuously updated to track the field’s latest advances, with new works summarized and systematically organized. If you have a paper relevant to the application of LLMs in Scenario-Based Testing of ADS, [please nominate them for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform).
+
 ## Citation
 If you think this repo is useful, please cite our paper:
 ```bibtex
@@ -79,52 +79,6 @@ If you think this repo is useful, please cite our paper:
       url={https://arxiv.org/abs/2505.16587}, 
 }
 ```
-
-
-## Table of Contents
-- [1. Related Survey](#1-related-survey)
-  - [Survey of LLM](#survey-of-llm)
-  - [Survey of Scenario-Based Testing](#survey-of-scenario-based-testing)
-  - [Survey of LLM for AD](#survey-of-llm-for-ad)
-  - [Survey of LLM for Miscellaneous Domains](#survey-of-llm-for-miscellaneous-domains)
-- [2. Terminology](#2-terminology)
-  - [Scenario](#scenario)
-  - [Scenario Abstraction Level](#scenario-abstraction-level)
-- [3. LLM Applications by Phase](#3-llm-applications-by-phase)
-  - [3.1 Scenario Source](#31-scenario-source)
-    - [Data Enrichment](#data-enrichment)
-    - [Data Enrichment Through Hazard Analysis](#data-enrichment-through-hazard-analysis)
-      - [Hazard Analysis and Risk Assessment (HARA)](#hazard-analysis-and-risk-assessment-hara)
-      - [Systems Theoretic Process Analysis (STPA)](#systems-theoretic-process-analysis-stpa)
-    - [Data Labeling](#data-labeling)
-    - [Data Retrieval](#data-retrieval)
-  - [3.2 Scenario Generation](#32-scenario-generation)
-    - [LLM as an Human-Machine Interface](#llm-as-an-human-machine-interface)
-      - [Structured representatio](#structured-representatio)
-      - [Loss function and executable code](#loss-function-and-executable-code)
-    - [LLM as an Data Interpreter](#llm-as-an-data-interpreter)
-      - [Accident reports And Domain knowledge](#accident-reports-and-domain-knowledge)
-      - [Naturalistic driving data](#naturalistic-driving-data)
-    - [LLM as an Intermediate Format Generator](#llm-as-an-intermediate-format-generator)
-      - [Driving policies](#driving-policies)
-      - [Scenario elements](#scenario-elements)
-      - [Functional & Abstract & Logical scenario](#functional--abstract--logical-scenario)
-    - [LLM as an Standard Format Generator](#llm-as-an-standard-format-generator)
-    - [LLM as an Executable Scenario Generator](#llm-as-an-executable-scenario-generator)
-      - [Template Filling](#template-filling)
-      - [End-to-End Generation](#end-to-end-generation)
-      - [Hybrid Generation](#hybrid-generation)
-  - [3.3 Scenario Selection](#33-scenario-selection)
-  - [3.4 Test Execution](#34-test-execution)
-    - [Anomaly Detection](#anomaly-detection)
-    - [Simulation Setup Automation](#simulation-setup-automation)
-    - [Scenario Optimization](#scenario-optimization)
-    - [Hazard Prediction](#hazard-prediction)
-  - [3.5 ADS Assessment](#35-ads-assessment)
-    - [Safety performance evaluatio](#safety-performance-evaluatio)
-    - [Intelligence level evaluation](#intelligence-level-evaluation)
-- [4. License](#4-license)
-
 
 ## 1. Related Survey
 
