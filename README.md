@@ -62,7 +62,7 @@ We warmly welcome community contributions—researchers are encouraged to [nomin
 - [4. License](#4-license)
 
 ## Usage
-The repository categorizes and lists all references following the logical structure of the review paper, as shown in the Contents section of the next chapter. By selecting the topic of interest, you can easily navigate to the cutting-edge papers included within each module. The papers are presented in a tabular format consisting of five columns: the first column shows the paper title, the second specifies the journal or conference, the third indicates the publication date, the fourth provides information about any available open-source resources, and the fifth offers a concise summary of the paper.
+The repository categorizes and lists all references following the logical structure of the review paper, as shown in the **Contents** section of the last chapter. By selecting the topic of interest, you can easily navigate to the cutting-edge papers included within each module. The papers are presented in a tabular format consisting of five columns, **as illustrated below**: the first column shows the paper title, the second specifies the journal or conference, the third indicates the publication date, the fourth provides information about any available open-source resources, and the fifth offers a concise summary of the paper.
 <img width="1016" height="217" alt="image" src="https://github.com/user-attachments/assets/7c7d20e1-bbe3-4da7-8a5e-57f7208bab29" />
 
 ## Citation
