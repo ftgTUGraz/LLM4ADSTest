@@ -62,6 +62,8 @@ We warmly welcome community contributions—researchers are encouraged to [nomin
 - [4. License](#4-license)
 
 ## Usage
+<img width="1016" height="217" alt="image" src="https://github.com/user-attachments/assets/7c7d20e1-bbe3-4da7-8a5e-57f7208bab29" />
+
 You can quickly find the literature related to different modules covered in the survey paper by consulting the tables in the repository, including each work’s title, publication date, code resources, and a brief summary.
 
 The repository is continuously updated to track the field’s latest advances, with new works summarized and systematically organized. If you have a paper relevant to the application of LLMs in Scenario-Based Testing of ADS, [please nominate them for inclusion](https://docs.google.com/forms/d/e/1FAIpQLSdn8aTgKbcia4uTbJNRncjz-DLLJ-8xg9Ds4Z5JPdD-VB2zgQ/viewform).
