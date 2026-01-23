@@ -79,15 +79,16 @@ The repository categorizes and lists all references following the logical struct
 ## Citation
 If you think this repo is useful, please cite our paper:
 ```bibtex
-@misc{zhao2025surveyapplicationlargelanguage,
-      title={A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems}, 
-      author={Yongqi Zhao and Ji Zhou and Dong Bi and Tomislav Mihalj and Jia Hu and Arno Eichberger},
-      year={2025},
-      eprint={2505.16587},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2505.16587}, 
-}
+@ARTICLE{11361285,
+  author={Zhao, Yongqi and Zhou, Ji and Bi, Dong and Mihalj, Tomislav and Hu, Jia and Eichberger, Arno},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-23},
+  keywords={Testing;Surveys;Terminology;Large language models;Trajectory;Taxonomy;Scenario generation;Hazards;Costs;Cognition;Generative AI;simulation test;safety assessment;automated vehicle;literature review},
+  doi={10.1109/TITS.2026.3651004}}
 ```
 
 ## 1. Related Survey
