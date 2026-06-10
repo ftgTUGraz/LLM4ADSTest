@@ -84,9 +84,9 @@ If you think this repo is useful, please cite our paper:
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-23},
+  volume={27},
+  number={5},
+  pages={5001-5023},
   keywords={Testing;Surveys;Terminology;Large language models;Trajectory;Taxonomy;Scenario generation;Hazards;Costs;Cognition;Generative AI;simulation test;safety assessment;automated vehicle;literature review},
   doi={10.1109/TITS.2026.3651004}}
 ```
